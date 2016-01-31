@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -342,6 +342,18 @@
     <message>
         <source>maps-he-results</source>
         <translation>Eredmények</translation>
+    </message>
+    <message>
+        <source>maps-la-turn_on_location</source>
+        <translation>Helymeghatározás bekapcsolása</translation>
+    </message>
+    <message>
+        <source>maps-no-copied_to_clipboard</source>
+        <translation>Vágólapra másolva</translation>
+    </message>
+    <message>
+        <source>maps-la-turn_on_location_description</source>
+        <translation>Ez szükséges a helyzeted megállapításához</translation>
     </message>
 </context>
 </TS>

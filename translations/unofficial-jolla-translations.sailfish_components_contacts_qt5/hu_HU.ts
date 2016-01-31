@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -458,6 +458,58 @@
     <message>
         <source>components_contacts-me-avatar_gallery</source>
         <translation>Kiválasztás a Galériából</translation>
+    </message>
+    <message>
+        <source>components_contacts-la-message</source>
+        <translation>Üzenet</translation>
+    </message>
+    <message>
+        <source>components_contacts-he-activity</source>
+        <translation>Aktivitás</translation>
+    </message>
+    <message>
+        <source>components_contacts-la-activity</source>
+        <translation>Aktivitás</translation>
+    </message>
+    <message>
+        <source>components_contacts-la-received_call</source>
+        <translation>Fogadott hívás</translation>
+    </message>
+    <message>
+        <source>components_contacts-la-activity_description</source>
+        <translation>Eddigi kommunikáció</translation>
+    </message>
+    <message>
+        <source>components_contacts-la-show_more_activity</source>
+        <translation>További kapcsolatok</translation>
+    </message>
+    <message>
+        <source>components_contacts-la-outgoing_call</source>
+        <translation>Kimenő hívás</translation>
+    </message>
+    <message>
+        <source>components_contacts-la-see_all_activity</source>
+        <translation>Minden kommunikáció megjelenítése</translation>
+    </message>
+    <message>
+        <source>components_contacts-me-call</source>
+        <translation>Hívás</translation>
+    </message>
+    <message>
+        <source>components_contacts-la-multimedia_message</source>
+        <translation>MMS</translation>
+    </message>
+    <message>
+        <source>components_contacts-me-send_message</source>
+        <translation>Üzenet küldése</translation>
+    </message>
+    <message>
+        <source>components_contacts-la-missed_call</source>
+        <translation>Nem fogadott hívás</translation>
+    </message>
+    <message>
+        <source>components_contacts-la-no_activity</source>
+        <translation>Nem volt kommunikáció</translation>
     </message>
 </context>
 </TS>

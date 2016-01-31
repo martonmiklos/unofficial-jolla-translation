@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -150,6 +150,10 @@
     <message>
         <source>startupwizard-he-go_back</source>
         <translation>Visszalépés</translation>
+    </message>
+    <message>
+        <source>startupwizard-la-goodbye</source>
+        <translation>Viszlát!</translation>
     </message>
 </context>
 </TS>

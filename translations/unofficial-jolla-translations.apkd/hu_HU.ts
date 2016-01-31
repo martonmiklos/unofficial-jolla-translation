@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -86,6 +86,14 @@
     <message>
         <source>apkd_settings-la-allow_background_service_start</source>
         <translation>Háttérben futó szolgáltatások indulásának engedélyezése indításkor</translation>
+    </message>
+    <message>
+        <source>android_settings-la-autostart</source>
+        <translation>Android™ támogatás bekapcsolása a készülék indításakor</translation>
+    </message>
+    <message>
+        <source>android_settings-la-autostart_description</source>
+        <translation>Ha ez ki van kapcsolva akkor nem fogsz értesítéseket kapni az Android™ alkalmazásoktól és az első elindítása sok ideig fog tartani</translation>
     </message>
 </context>
 </TS>

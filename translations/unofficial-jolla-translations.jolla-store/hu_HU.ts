@@ -599,5 +599,9 @@
         <source>jolla-store-la-category_apps_education</source>
         <translation>Oktatás</translation>
     </message>
+    <message>
+        <source>jolla-store-no-error_os_update_info_failed</source>
+        <translation>Nem sikerült a frissítési információk letöltése</translation>
+    </message>
 </context>
 </TS>

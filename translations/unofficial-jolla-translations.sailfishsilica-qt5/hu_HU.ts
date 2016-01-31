@@ -319,5 +319,13 @@
         <source>sailfishsilica-months-short</source>
         <translation>%n hónapja</translation>
     </message>
+    <message>
+        <source>components-ph-password</source>
+        <translation>Jelszó</translation>
+    </message>
+    <message>
+        <source>components-la-password</source>
+        <translation>Jelszó</translation>
+    </message>
 </context>
 </TS>

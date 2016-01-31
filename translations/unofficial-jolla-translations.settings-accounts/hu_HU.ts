@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -1299,6 +1299,30 @@ Kérlek olvasd el őket figyelmesen mielőtt továbblépsz.</translation>
     <message>
         <source>components_accounts-la-jabber_ignore_ssl_errors</source>
         <translation>SSL-hibák figyelmen kívül hagyása</translation>
+    </message>
+    <message>
+        <source>jolla_settings_accounts_extensions-bt-dropbox_terms</source>
+        <translation>Dropbox Szolgáltatási Feltételek</translation>
+    </message>
+    <message>
+        <source>jolla_settings_accounts_extensions-la-dropbox-consent_text</source>
+        <translation>A Dropbox fiók hozzáadásával lehetőséged nyílik fájljaid a Dropbox felhőjébe történő mentésére. &lt;br&gt;&lt;br&gt;A fiók létrehozásához el kell fogadnod a Dropbox Szolgáltatási Feltételeket</translation>
+    </message>
+    <message>
+        <source>jolla_settings_accounts_extensions-la-onedrive_duplicate_account</source>
+        <translation>A %1 felhasználóhoz már van egy OneDrive fiók rögzítve</translation>
+    </message>
+    <message>
+        <source>jolla_settings_accounts_extensions-la-dropbox-duplicate_text</source>
+        <translation>A %1 felhasználóhoz már van egy Dropbox fiók rögzítve</translation>
+    </message>
+    <message>
+        <source>jolla_settings_accounts_extensions-bt-onedrive_terms</source>
+        <translation>OneDrive Szolgáltatási Feltételek</translation>
+    </message>
+    <message>
+        <source>jolla_settings_accounts_extensions-la-onedrive-consent_text</source>
+        <translation>A OneDrive fiók hozzáadásával lehetőséged nyílik fájljaid a OneDrive felhőjébe történő mentésére. &lt;br&gt;&lt;br&gt;A fiók létrehozásához el kell fogadnod a OneDrive Szolgáltatási Feltételeket</translation>
     </message>
 </context>
 </TS>
