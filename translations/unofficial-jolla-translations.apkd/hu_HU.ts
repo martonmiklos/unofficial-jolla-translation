@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>android_settings-bt-stop_android_support</source>
-        <translation>Állj</translation>
+        <translation>Leállítás</translation>
     </message>
     <message>
         <source>android_settings-header</source>
