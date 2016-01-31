@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="hu_HU">
+<context>
+    <name></name>
+    <message>
+        <source>webshare-la-uploads-text</source>
+        <translation>Mobil feltöltések a Jolláról</translation>
+    </message>
+    <message>
+        <source>mms-share-la-multimedia_message</source>
+        <translation>MMS</translation>
+    </message>
+    <message>
+        <source>mms-share-roaming-warning</source>
+        <translation>A külföldről küldött MMS jelentősen megnövelheti az adatköltségeket</translation>
+    </message>
+    <message>
+        <source>mms-share-li-displayname</source>
+        <translation>MMS</translation>
+    </message>
+    <message>
+        <source>webshare-he-upload_heading</source>
+        <translation>Feltöltés</translation>
+    </message>
+    <message>
+        <source>webshare-he-share_heading</source>
+        <translation>Megosztás</translation>
+    </message>
+    <message>
+        <source>webshare-va-50_percent</source>
+        <translation>50%</translation>
+    </message>
+    <message>
+        <source>webshare-va-75_percent</source>
+        <translation>75%</translation>
+    </message>
+    <message>
+        <source>webshare-va-25_percent</source>
+        <translation>25%</translation>
+    </message>
+    <message>
+        <source>bt-share-li-displayname</source>
+        <translation>Bluetooth</translation>
+    </message>
+    <message>
+        <source>twittershare-la-scale_image</source>
+        <translation>Kép méretezése</translation>
+    </message>
+    <message>
+        <source>webshare-va-original</source>
+        <translation>Eredeti</translation>
+    </message>
+    <message>
+        <source>webshare-la-destination_file</source>
+        <translation>Fájl</translation>
+    </message>
+    <message>
+        <source>email-share-li-displayname</source>
+        <translation>E-mail</translation>
+    </message>
+    <message>
+        <source>facebookshare-la-status</source>
+        <translation>Állapot</translation>
+    </message>
+    <message>
+        <source>twittershare-he-share_heading</source>
+        <translation>Megosztás</translation>
+    </message>
+    <message>
+        <source>twittershare-va-original</source>
+        <translation>Eredeti</translation>
+    </message>
+    <message>
+        <source>twitteruploader-li-twitter</source>
+        <translation>Twitter</translation>
+    </message>
+    <message>
+        <source>webshare-me-include_metadata</source>
+        <translation>Metaadatok hozzáfűzése</translation>
+    </message>
+    <message>
+        <source>webshare-la-scale_image</source>
+        <translation>Kép átméretezése</translation>
+    </message>
+    <message>
+        <source>twittershare-la-description</source>
+        <translation>Tweet</translation>
+    </message>
+    <message>
+        <source>webshare-la-description</source>
+        <translation>Leírás</translation>
+    </message>
+    <message>
+        <source>facebookshare-ph-my_status</source>
+        <translation>Állapotom</translation>
+    </message>
+    <message>
+        <source>webshare-la-younited-uploads-pictures</source>
+        <translation>Fényképek</translation>
+    </message>
+    <message>
+        <source>mms-share-ph-recipient</source>
+        <translation>Címzett</translation>
+    </message>
+    <message>
+        <source>mms-share-la-send</source>
+        <translation>Küldés</translation>
+    </message>
+    <message>
+        <source>facebookshare-he-share_heading</source>
+        <translation>Megosztás</translation>
+    </message>
+    <message>
+        <source>twittershare-me-include_metadata</source>
+        <translation>Metaadatok hozzáfűzése</translation>
+    </message>
+    <message>
+        <source>mms-share-ph-chat_placeholder</source>
+        <translation>Szia %1</translation>
+    </message>
+    <message>
+        <source>mms-share-roaming-error</source>
+        <translation>Az adatkapcsolati beállítások megakadályozzák az MMS küldését külföldön</translation>
+    </message>
+    <message>
+        <source>twittershare-va-75_percent</source>
+        <translation>75%</translation>
+    </message>
+    <message>
+        <source>twittershare-va-50_percent</source>
+        <translation>50%</translation>
+    </message>
+    <message>
+        <source>twittershare-va-25_percent</source>
+        <translation>25%</translation>
+    </message>
+    <message>
+        <source>webshare-la-younited-uploads-videos</source>
+        <translation>Videók</translation>
+    </message>
+    <message>
+        <source>webshare-la-destination_folder</source>
+        <translation>Célmappa</translation>
+    </message>
+    <message>
+        <source>mms-share-ph-chat_placeholder_generic</source>
+        <translation>Szia</translation>
+    </message>
+    <message>
+        <source>twittershare-ph-description</source>
+        <translation>Sajtát tweet</translation>
+    </message>
+    <message>
+        <source>webshare-ph-description</source>
+        <translation>Leírás hozzáadása</translation>
+    </message>
+    <message>
+        <source>mms-share-ph-recipients</source>
+        <translation>Címzettek</translation>
+    </message>
+    <message>
+        <source>mms-share-la-new_message</source>
+        <translation>Új üzenet</translation>
+    </message>
+</context>
+</TS>
