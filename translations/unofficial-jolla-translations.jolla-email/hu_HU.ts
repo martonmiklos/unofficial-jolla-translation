@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -289,11 +289,11 @@
     </message>
     <message>
         <source>jolla-email-me-sort_by</source>
-        <translation>Rendezés e szerint: %1</translation>
+        <translation>Rendezés: %1</translation>
     </message>
     <message>
         <source>jolla-email-he-sort_by</source>
-        <translation>Rendezé</translation>
+        <translation>Rendezés</translation>
     </message>
     <message>
         <source>jolla-components_email-la-bcc</source>
@@ -529,7 +529,7 @@
     </message>
     <message>
         <source>jolla-components_email-la-from</source>
-        <translation>Küldő</translation>
+        <translation>Feladó</translation>
     </message>
     <message>
         <source>email-la_no_send_accounts</source>

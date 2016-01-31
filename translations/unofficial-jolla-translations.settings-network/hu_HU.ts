@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -525,7 +525,7 @@
     </message>
     <message>
         <source>settings_flight-la-calls-will-be-disabled</source>
-        <translation>Kapcsolat bezárása</translation>
+        <translation>Kapcsolatok bezárása</translation>
     </message>
     <message>
         <source>settings_network-la-username</source>

@@ -481,7 +481,7 @@
     </message>
     <message>
         <source>components_contacts-la-show_more_activity</source>
-        <translation>További kapcsolatok</translation>
+        <translation>További események</translation>
     </message>
     <message>
         <source>components_contacts-la-outgoing_call</source>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>calendar-la-datewidget_starts</source>
-        <translation>Kezdődik</translation>
+        <translation>Kezdet</translation>
     </message>
     <message>
         <source>calendar-add-description</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>calendar-la-datewidget_ends</source>
-        <translation>Befejeződik</translation>
+        <translation>Vége</translation>
     </message>
     <message>
         <source>calendar-event-edit</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>calendar-add-remind_me</source>
-        <translation>Emlékeztess</translation>
+        <translation>Emlékeztető</translation>
     </message>
     <message>
         <source>jolla-calendar-ph-vcalendar_default_name</source>
