@@ -261,7 +261,7 @@
     </message>
     <message>
         <source>settings_network-me-forget_network</source>
-        <translation>Hálózat eldobása</translation>
+        <translation>Mentett hálózatbeállítások törlése</translation>
     </message>
     <message>
         <source>settings_network-la-ftp_proxy</source>
@@ -381,7 +381,7 @@
     </message>
     <message>
         <source>settings_network-la-roaming_cost_warning</source>
-        <translation>A mobil adatok külföldön az adattovábbítási költségeidet nagyon megemelhetik</translation>
+        <translation>A mobil adatkapcsolat külföldi használata nagyon megemelheti a telefonszámlát</translation>
     </message>
     <message>
         <source>settings_network-la-hotspot_password</source>
@@ -425,7 +425,7 @@
     </message>
     <message>
         <source>settings_networking-connectivity</source>
-        <translation>Kapcsolat</translation>
+        <translation>Kapcsolatok</translation>
     </message>
     <message>
         <source>settings_network-la-connman_unavailable</source>
@@ -553,11 +553,11 @@
     </message>
     <message>
         <source>settings_network-me-roaming_always_allow</source>
-        <translation>Mindig engedélyez</translation>
+        <translation>Mindig engedélyezve</translation>
     </message>
     <message>
         <source>settings_network-me-roaming_do_not_allow</source>
-        <translation>Nem engedélyez</translation>
+        <translation>Letiltva</translation>
     </message>
     <message>
         <source>settings_network-me-clear_mobile_data_counters</source>
@@ -565,7 +565,7 @@
     </message>
     <message>
         <source>settings_network-me-connect</source>
-        <translation>Connect</translation>
+        <translation>Csatlakozás</translation>
     </message>
     <message>
         <source>settings_network-me-packetdata_limited</source>

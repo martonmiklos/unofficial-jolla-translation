@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>settings_display-la-adaptive_brightness</source>
-        <translation>Automatikus beállítás</translation>
+        <translation>Fényviszonyokhoz alkalmazkodó fényerő</translation>
     </message>
     <message>
         <source>settings_developermode-lb-developer_terms</source>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>settings_events-he-events</source>
-        <translation>Események</translation>
+        <translation>Események nézet</translation>
     </message>
     <message>
         <source>settings_about-la-serial</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>settings_system-events</source>
-        <translation>Események</translation>
+        <translation>Események nézet</translation>
     </message>
     <message>
         <source>settings_events-la-quick_actions</source>
@@ -321,7 +321,7 @@
     </message>
     <message>
         <source>settings_events-la-select_shortcuts</source>
-        <translation>Gyorsműveletek kiválasztása</translation>
+        <translation>Gyorsgombok kiválasztása</translation>
     </message>
     <message>
         <source>settings_system-brightness</source>
@@ -345,7 +345,7 @@
     </message>
     <message>
         <source>settings_events-la-settings_shortcuts</source>
-        <translation>Beállítási gyorsműveletek</translation>
+        <translation>Eseménynézet gyorsgombjai</translation>
     </message>
     <message>
         <source>settings_sound-la-current_message_tone</source>
@@ -537,7 +537,7 @@
     </message>
     <message>
         <source>settings_events-la-settings_shortcuts_description</source>
-        <translation>Válaszd ki azokat a műveleteket amiket az események menüben szeretnél megjeleníteni. Jelenleg ezek vannak: %1</translation>
+        <translation>Válaszd ki azokat a műveleteket amiket az események nézet lehúzható menüjében gombként szeretnél megjeleníteni. Jelenleg ezek vannak beállítva: %1</translation>
     </message>
     <message>
         <source>settings_sound-la-current_chat_tone</source>
@@ -669,7 +669,7 @@
     </message>
     <message>
         <source>settings_developermode-la-ssu_registration</source>
-        <translation>A fejlesztői tárolókhoz hozzáféréshez a Jolla-tól kapott külön engedély kell</translation>
+        <translation>A fejlesztői tárolókhoz hozzáféréshez a Jolla-tól kapott külön engedély szükséges</translation>
     </message>
     <message>
         <source>settings_developermode-la-ssu_enabled</source>
@@ -1065,7 +1065,7 @@
     </message>
     <message>
         <source>settings_display-la-display_on_charger_description</source>
-        <translation>Kijelző elsötétítésének elkerülése töltés közben</translation>
+        <translation>Kijelző elsötétítésének kikapcsolása ha az eszköz töltőn van</translation>
     </message>
     <message>
         <source>settings_developermode-bu-enable_software_updates</source>

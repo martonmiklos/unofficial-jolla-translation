@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -365,7 +365,7 @@
     </message>
     <message>
         <source>jolla-store-me-open</source>
-        <translation>Nyílt</translation>
+        <translation>Alkalmazás megnyitása</translation>
     </message>
     <message>
         <source>jolla-store-la-app_state_waiting</source>

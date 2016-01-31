@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>components-la-in-n-seconds</source>
-        <translation>%n másodperce</translation>
+        <translation>%n másodpercen belül</translation>
     </message>
     <message>
         <source>sailfishsilica-hours-future</source>

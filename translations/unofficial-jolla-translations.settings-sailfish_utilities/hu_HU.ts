@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>sailfish-utilities-restart-ui-desc</source>
-        <translation>Újraindítja a megjelenítő réteget ezáltal bezárva az összes futó alkalmazást. Segíthet ha egy alkalmazás beragad, vagy em indítható illetve ha rakoncátlankodik a vágólap, billentyűzet vagy a főképernyő.</translation>
+        <translation>Újraindítja a megjelenítő réteget ezáltal bezárva az összes futó alkalmazást. Segíthet ha egy alkalmazás beragad, vagy nem indítható el, illetve ha rakoncátlankodik a vágólap, billentyűzet vagy a főképernyő.</translation>
     </message>
     <message>
         <source>sailfish-utilities-me-notification-ok</source>

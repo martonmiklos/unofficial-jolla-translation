@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-events-calendar_description</source>
-        <translation>A mai találkozókat az Események nézetben tekintheted meg. Az eseményekre koppintás megnyitja a Naptár alkalmazást a további részletekért.</translation>
+        <translation>A napi találkozóid az Események nézetben is megjelenítődnek. Az eseményekre koppintás megnyitja a Naptár alkalmazást a további részletekért.</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-la-wlan_flight_mode</source>
