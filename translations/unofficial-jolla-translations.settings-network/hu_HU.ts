@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>settings_networking-mobile_data</source>
-        <translation>Mobiladat</translation>
+        <translation>Mobil adatforgalom</translation>
     </message>
     <message>
         <source>settings_networking-mobile</source>
@@ -561,7 +561,7 @@
     </message>
     <message>
         <source>settings_network-me-clear_mobile_data_counters</source>
-        <translation>Mobiladat-számlálók törlése</translation>
+        <translation>Mobil adatforgalom-számlálók törlése</translation>
     </message>
     <message>
         <source>settings_network-me-connect</source>
@@ -593,7 +593,7 @@
     </message>
     <message>
         <source>settings_network-he-mobile_data</source>
-        <translation>Mobiladat</translation>
+        <translation>Mobil adatforgalom</translation>
     </message>
     <message>
         <source>settings_network-ph-enter_username</source>

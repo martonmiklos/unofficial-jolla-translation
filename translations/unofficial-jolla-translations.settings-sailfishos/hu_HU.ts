@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>settings_sailfishos-me-wlan_only</source>
-        <translation>Csak ha Wi-Fi kapcsolaton</translation>
+        <translation>Csak Wi-Fi kapcsolaton</translation>
     </message>
     <message>
         <source>settings_sailfishos-la-checking</source>

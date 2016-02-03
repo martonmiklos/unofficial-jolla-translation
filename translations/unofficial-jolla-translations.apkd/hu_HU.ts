@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>android_settings-la-permissions</source>
-        <translation>Jogosultásgo</translation>
+        <translation>Jogosultságok</translation>
     </message>
     <message>
         <source>android_settings-la-actions_header</source>

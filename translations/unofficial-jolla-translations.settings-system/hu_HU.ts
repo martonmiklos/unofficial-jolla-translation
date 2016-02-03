@@ -837,7 +837,7 @@
     </message>
     <message>
         <source>settings_developermode-bu-generate_password</source>
-        <translation>Létrehozás</translation>
+        <translation>Generálás</translation>
     </message>
     <message>
         <source>settings_system-la-battery-charger_not_connected</source>

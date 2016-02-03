@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>sailfishsilica-now</source>
-        <translation>Csak most</translation>
+        <translation>Épp most</translation>
     </message>
     <message>
         <source>sailfishsilica-monthname_july_standalone_short</source>

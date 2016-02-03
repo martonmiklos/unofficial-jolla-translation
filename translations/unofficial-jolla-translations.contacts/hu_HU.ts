@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>contacts-la-lumia_other</source>
-        <translation>Más Lumia</translation>
+        <translation>Egyéb Lumia</translation>
     </message>
     <message>
         <source>contacts-bt-contact_email</source>
@@ -113,7 +113,7 @@
     </message>
     <message>
         <source>contacts-la-select_lumia</source>
-        <translation>Melyik Lumiával rendelkezel?</translation>
+        <translation>Milyen típusú Lumiáról kívánsz importálni?</translation>
     </message>
     <message>
         <source>contacts_settings-la-import_from_bluetooth_device</source>
@@ -369,7 +369,7 @@
     </message>
     <message>
         <source>contacts-la-select_lumia_advice</source>
-        <translation>Válaszd a Más Lumia-t, ha Winsows Phone 8-as készüléked van.</translation>
+        <translation>Válaszd az Egyéb Lumia opciót, ha Windows Phone 8-as készüléked van.</translation>
     </message>
     <message>
         <source>contacts-la-detail_field_address_country</source>
