@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>camera_settings-la-wb-fluorecent</source>
-        <translation>Fluoreszkáló</translation>
+        <translation>Kompakt fénycső</translation>
     </message>
     <message>
         <source>camera-la-camera_roll_hint</source>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>camera_settings-la-timer-seconds-delay</source>
-        <translation>%1 sec várakozás</translation>
+        <translation>%1 mp késleltetés</translation>
     </message>
     <message>
         <source>camera_settings-la-save_location_description</source>
@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>Thirds grid</source>
-        <translation>Harmadoló háló</translation>
+        <translation>Harmadolt rács</translation>
     </message>
     <message>
         <source>camera_settings-me-16-9-2m</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>camera_settings-la-light-sensitivity-auto</source>
-        <translation>Fényérzékenység Automatikus</translation>
+        <translation>Automatikus fényérzékenység </translation>
     </message>
     <message>
         <source>camera_settings-la-focus-auto</source>

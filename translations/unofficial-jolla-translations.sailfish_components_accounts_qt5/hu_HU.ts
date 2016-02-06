@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>component_accounts-la-not_signed_in</source>
-        <translation>Nem vagy belépve</translation>
+        <translation>Nem vagy bejelentkezve</translation>
     </message>
 </context>
 </TS>

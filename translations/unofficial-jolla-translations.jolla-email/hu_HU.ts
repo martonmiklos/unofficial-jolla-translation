@@ -585,11 +585,11 @@
     </message>
     <message>
         <source>jolla-email-me-reply_all</source>
-        <translation>Válasz mindre</translation>
+        <translation>Válasz mindenkinek</translation>
     </message>
     <message>
         <source>jolla-email-me-move to</source>
-        <translation>Áthelyezés ide</translation>
+        <translation>Áthelyezés másik mappába</translation>
     </message>
     <message>
         <source>jolla-email-la-importance</source>

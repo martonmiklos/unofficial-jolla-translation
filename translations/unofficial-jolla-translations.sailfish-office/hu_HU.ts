@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
         <source>sailfish-office-lb-goto-page</source>
-        <translation>Go to page</translation>
+        <translation>Ugrás oldalra</translation>
     </message>
     <message numerus="yes">
         <source>sailfish-office-lb-%n-matches</source>
         <translation>
-            <numerusform>%n item found</numerusform>
+            <numerusform>%n találat</numerusform>
         </translation>
     </message>
     <message>

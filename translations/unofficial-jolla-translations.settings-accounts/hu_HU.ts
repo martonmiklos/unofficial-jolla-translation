@@ -65,8 +65,8 @@
     </message>
     <message>
         <source>settings_accounts-la-jolla_account_agree_terms_and_privacy</source>
-        <translation>A fiók létrehozásával elfogadod a %1Jolla Terms of Service-t és a Jolla Privacy Policy%2-t.
-Kérlek olvasd el őket figyelmesen mielőtt továbblépsz.</translation>
+        <translation>A fiók létrehozásával elfogadod a %1Jolla Szolgáltatási Feltételeket és a Jolla Privacy Policy %2-t.
+Kérlek olvasd el mindkettőt figyelmesen mielőtt továbblépsz.</translation>
     </message>
     <message>
         <source>components_accounts-la-genericemail_untrustedCertificates_outgoing_description</source>
@@ -166,7 +166,7 @@ Kérlek olvasd el őket figyelmesen mielőtt továbblépsz.</translation>
     </message>
     <message>
         <source>settings_accounts-la-not_connected</source>
-        <translation>Nincs csatlakoztatva</translation>
+        <translation>Nincs internetkapcsolat</translation>
     </message>
     <message>
         <source>components_accounts-la-genericemail_email_address</source>
@@ -214,7 +214,7 @@ Kérlek olvasd el őket figyelmesen mielőtt továbblépsz.</translation>
     </message>
     <message>
         <source>settings-accounts-me-account_status</source>
-        <translation>A fiók státusza</translation>
+        <translation>A fiók állapota</translation>
     </message>
     <message>
         <source>settings-accounts-la-download_details</source>
@@ -486,7 +486,7 @@ Kérlek olvasd el őket figyelmesen mielőtt továbblépsz.</translation>
     </message>
     <message>
         <source>accounts-me-update_credentials</source>
-        <translation>Bejelentkezési azonosítás frissítése</translation>
+        <translation>Bejelentkezési azonosító frissítése</translation>
     </message>
     <message>
         <source>components_accounts-he-no_accounts</source>
@@ -874,7 +874,7 @@ Kérlek olvasd el őket figyelmesen mielőtt továbblépsz.</translation>
     </message>
     <message>
         <source>settings_accounts-he-not_signed_in</source>
-        <translation>Nem vagy belépve</translation>
+        <translation>Nem vagy bejelentkezve</translation>
     </message>
     <message>
         <source>components_accounts-la-account_credentials_update_error</source>

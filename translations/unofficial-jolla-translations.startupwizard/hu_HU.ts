@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>startupwizard-la-country_requested_for_wlan</source>
-        <translation>This information is needed to define the allowed WLAN frequencies.</translation>
+        <translation>Ez az információ a használható Wi-fi sávok megállapításához szükséges.</translation>
     </message>
     <message>
         <source>startupwizard-la-skip_internet_connection</source>
@@ -53,11 +53,11 @@
     </message>
     <message>
         <source>startupwizard-he-welcome_where_do_you_live</source>
-        <translation>Welcome! Where do you live?</translation>
+        <translation>Üdvözöllek! Melyik országban élsz?</translation>
     </message>
     <message>
         <source>startupwizard-la-sailfish_eula_intro</source>
-        <translation>A Jolla Sailfish operációs rendszert futtat. Az &apos;%1&apos; választva, és a Sailfish OS használatba vételével egyetértesz a Sailfish OS Használati Feltételeivel.</translation>
+        <translation>A Jolla Sailfish operációs rendszert futtat. Az &apos;%1&apos; választva, és a Sailfish OS használatához el kell fogadnoda Sailfish OS Használati Feltételeit.</translation>
     </message>
     <message>
         <source>settings_accounts-accounts</source>

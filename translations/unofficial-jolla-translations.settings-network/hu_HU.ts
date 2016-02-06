@@ -545,7 +545,7 @@
     </message>
     <message>
         <source>settings_network-ph-wlan</source>
-        <translation>WLAN</translation>
+        <translation>Wi-fi</translation>
     </message>
     <message>
         <source>settings_networking-tethering</source>

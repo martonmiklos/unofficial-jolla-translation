@@ -253,11 +253,11 @@
     </message>
     <message>
         <source>lipstick-jolla-home-la-connection_wlan_network</source>
-        <translation>WLAN</translation>
+        <translation>Wi-fi</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-bt-disable_it</source>
-        <translation>Kapcsold ki</translation>
+        <translation>Repülő üzemmód kikapcsolása</translation>
     </message>
     <message>
         <source>eventsview-ph-my_status</source>
@@ -353,7 +353,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-bt-wlan_only</source>
-        <translation>Csak WLAN</translation>
+        <translation>Csak a Wi-fi bekapcsolása</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-folder_video</source>

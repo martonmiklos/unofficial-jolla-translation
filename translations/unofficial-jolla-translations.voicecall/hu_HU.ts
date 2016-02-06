@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -373,7 +373,7 @@
     </message>
     <message>
         <source>voicecall-la-call_person</source>
-        <translation>Szám hívása</translation>
+        <translation>Névjegy hívása</translation>
     </message>
     <message>
         <source>voicecall-bt-cancel</source>
@@ -525,15 +525,15 @@
     </message>
     <message>
         <source>voicecall-ph-enter_phone_number</source>
-        <translation>telefonszám megadása</translation>
+        <translation>telefonszám</translation>
     </message>
     <message>
         <source>voicecall-me-enter_phone_number</source>
-        <translation>Telefonszám megadása</translation>
+        <translation>Telefonszám hívása</translation>
     </message>
     <message>
         <source>voicecall-me-call_person</source>
-        <translation>Szám hívása</translation>
+        <translation>Névjegy hívása</translation>
     </message>
     <message>
         <source>settings_phone-bt-activate_sim</source>

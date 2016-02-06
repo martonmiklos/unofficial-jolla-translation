@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>sailfishsilica-monthname_march_standalone_short</source>
-        <translation>Márc</translation>
+        <translation>Már</translation>
     </message>
     <message>
         <source>components-he-dialog_accept</source>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>sailfishsilica-monthname_february_standalone_short</source>
-        <translation>Febr</translation>
+        <translation>Feb</translation>
     </message>
     <message>
         <source>sailfishsilica-now</source>
