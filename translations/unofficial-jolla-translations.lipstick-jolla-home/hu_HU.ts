@@ -409,7 +409,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-no-removing</source>
-        <translation>Eltávolítás %1</translation>
+        <translation>%1 eltávolítása</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-me-weather_no_thanks</source>
