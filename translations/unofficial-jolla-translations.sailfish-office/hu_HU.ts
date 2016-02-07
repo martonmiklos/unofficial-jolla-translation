@@ -109,7 +109,7 @@
     </message>
     <message>
         <source>sailfish-office-me-search</source>
-        <translation>Keres</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <source>sailfish-office-me-broken-pdf-hint</source>

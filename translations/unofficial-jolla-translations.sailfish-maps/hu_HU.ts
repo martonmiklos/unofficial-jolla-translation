@@ -269,11 +269,11 @@
     </message>
     <message>
         <source>maps-he-search</source>
-        <translation>Keres</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <source>maps-me-search</source>
-        <translation>Keres</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <source>maps-la-unit_km</source>
