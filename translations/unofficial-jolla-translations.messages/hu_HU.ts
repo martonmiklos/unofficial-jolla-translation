@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>jolla-messages-la-new_message</source>
-        <translation>Új üzenet</translation>
+        <translation>SMS írása</translation>
     </message>
     <message>
         <source>settings_messages-la-mms_size_medium</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>messages-me-new_conversation</source>
-        <translation>Új üzenet</translation>
+        <translation>SMS írása</translation>
     </message>
     <message>
         <source>messages-la-saved_n_contacts</source>
