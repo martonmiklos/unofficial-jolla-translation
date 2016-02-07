@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>clock-la-expiring_in_days_hours_minutes</source>
-        <translation>Lejár %0, %1, és %2 múlva</translation>
+        <translation>Ébresztő %0, %1, és %2 múlva</translation>
     </message>
     <message>
         <source>clock-va-timer_duration_min_sec</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>clock-la-expiring_in_minutes</source>
-        <translation>Lejár %0 múlva</translation>
+        <translation>Ébresztő %0 múlva</translation>
     </message>
     <message>
         <source>clock-ap-name</source>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>clock-la-expiring_in_hours_minutes</source>
-        <translation>Lejár %0 és %1 múlva</translation>
+        <translation>Ébresztő %0 és %1 múlva</translation>
     </message>
     <message>
         <source>clock-he-save</source>
