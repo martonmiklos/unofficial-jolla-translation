@@ -5,7 +5,7 @@
     <name></name>
     <message>
         <source>calendar-add-at_time_of_event</source>
-        <translation>Az esemény idején</translation>
+        <translation>Az esemény kezdetén</translation>
     </message>
     <message>
         <source>calendar-event-ph-delete_recurring</source>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>calendar-add-recurring</source>
-        <translation>Ismétlődő</translation>
+        <translation>Ismétlés</translation>
     </message>
     <message>
         <source>calendar-me-settings</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>calendar-la-datewidget_starts</source>
-        <translation>Kezdet</translation>
+        <translation>Kezdete</translation>
     </message>
     <message>
         <source>calendar-add-description</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>calendar-add-every_month</source>
-        <translation>Minden hónap</translation>
+        <translation>Minden hónapban</translation>
     </message>
     <message>
         <source>calendar-yesterday</source>
@@ -141,11 +141,11 @@
     </message>
     <message>
         <source>calendar-add-every_week</source>
-        <translation>Minden hét</translation>
+        <translation>Minden héten</translation>
     </message>
     <message>
         <source>calendar-add-every_year</source>
-        <translation>Minden év</translation>
+        <translation>Évente</translation>
     </message>
     <message>
         <source>calendar-add-5_minutes_before</source>
@@ -157,7 +157,7 @@
     </message>
     <message>
         <source>calendar-add-every_2_weeks</source>
-        <translation>Minden 2 hét</translation>
+        <translation>Minden második héten</translation>
     </message>
     <message>
         <source>calendar-la-event_organizer</source>
@@ -277,7 +277,7 @@
     </message>
     <message>
         <source>calendar-add-once</source>
-        <translation>Egyszer</translation>
+        <translation>Csak egyszer</translation>
     </message>
     <message>
         <source>calendar-add-2_days_before</source>
