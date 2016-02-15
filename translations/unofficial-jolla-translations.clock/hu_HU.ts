@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>clock-la-expiring_in_days_hours_minutes</source>
-        <translation>Ébresztő %0, %1, és %2 múlva</translation>
+        <translation>Ébresztő %0 %1 %2 múlva</translation>
     </message>
     <message>
         <source>clock-va-timer_duration_min_sec</source>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>clock-la-expiring_in_hours_minutes</source>
-        <translation>Ébresztő %0 és %1 múlva</translation>
+        <translation>Ébresztő %0 %1 múlva</translation>
     </message>
     <message>
         <source>clock-he-save</source>

@@ -245,7 +245,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-me-close_all</source>
-        <translation>Futó alkalmazások bezárása</translation>
+        <translation>Minden futó alkalmazás bezárása</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-la-show-more</source>

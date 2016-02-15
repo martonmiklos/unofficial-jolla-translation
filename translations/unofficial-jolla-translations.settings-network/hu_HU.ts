@@ -261,7 +261,7 @@
     </message>
     <message>
         <source>settings_network-me-forget_network</source>
-        <translation>Mentett hálózatbeállítások törlése</translation>
+        <translation>Az elmentett hálózatbeállítás törlése</translation>
     </message>
     <message>
         <source>settings_network-la-ftp_proxy</source>

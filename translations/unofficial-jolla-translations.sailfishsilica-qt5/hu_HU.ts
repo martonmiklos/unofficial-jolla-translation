@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>components-la-in-n-seconds</source>
-        <translation>%n másodpercen múlva</translation>
+        <translation>%n másodperc múlva</translation>
     </message>
     <message>
         <source>sailfishsilica-hours-future</source>

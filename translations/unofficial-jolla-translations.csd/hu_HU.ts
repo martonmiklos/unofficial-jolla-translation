@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -577,7 +577,7 @@
     </message>
     <message>
         <source>csd-la-audio_play_music_loudspeaker_runin_description</source>
-        <translation>1. Bizonyosodj meg, hogy fejhallgató nincs csatlakoztatva.</translation>
+        <translation type="unfinished">1. Bizonyosodj meg, hogy fejhallgató nincs csatlakoztatva.</translation>
     </message>
     <message>
         <source>csd-li-loudspeaker_playback</source>

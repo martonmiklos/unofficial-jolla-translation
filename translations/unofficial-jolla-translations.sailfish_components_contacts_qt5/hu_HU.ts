@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>components_contacts-he-links</source>
-        <translation>Linkek</translation>
+        <translation>Összekapcsolás</translation>
     </message>
     <message>
         <source>components_contacts-me-share</source>
@@ -269,7 +269,7 @@
     </message>
     <message>
         <source>components_contacts-la-finding_links</source>
-        <translation>Linkek keresése...</translation>
+        <translation>Hasonló kapcsolatok keresése...</translation>
     </message>
     <message>
         <source>components_contacts-la-removing_contact</source>
