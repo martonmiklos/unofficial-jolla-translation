@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>camera-me-create_ambience</source>
-        <translation>Téma létrehozás</translation>
+        <translation>Téma létrehozása</translation>
     </message>
     <message>
         <source>No grid</source>

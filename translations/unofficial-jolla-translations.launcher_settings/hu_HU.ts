@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>launcher_settings-la-disable_swipes</source>
-        <translation>Bal swipe tiltása</translation>
+        <translation>Balra lapozás tiltása</translation>
     </message>
     <message>
         <source>launcher_settings-he-vibration</source>
@@ -57,11 +57,11 @@
     </message>
     <message>
         <source>launcher_settings-he-swipes</source>
-        <translation>Swipe-ok</translation>
+        <translation>Lapozási műveletek</translation>
     </message>
     <message>
         <source>launcher_settings-la-swipes</source>
-        <translation>Swipe-ok</translation>
+        <translation>Lapozási műveletek</translation>
     </message>
     <message>
         <source>settings_shortcuts-la-lock_screen_shortcut_add</source>

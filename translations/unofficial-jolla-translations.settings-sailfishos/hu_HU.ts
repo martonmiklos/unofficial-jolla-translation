@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>settings_sailfishos-la-download_system_update_hint</source>
-        <translation>Pöccints lefelé a rendszerfrissítés letöltéséhez</translation>
+        <translation>Húzd le a menüt a rendszerfrissítés letöltéséhez</translation>
     </message>
     <message>
         <source>settings_sailfishos-la-version</source>

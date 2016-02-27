@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>components-la-swipe_left_or_right_to_return_to_home</source>
-        <translation>Swipe-olj bal vagy jobb oldalon a képernyőn kívülről a kezdőképernyőhöz való visszatéréshez</translation>
+        <translation>Lapozz a bal vagy jobb oldalon a képernyőn kívülről a kezdőképernyőhöz való visszatéréshez</translation>
     </message>
     <message>
         <source>sailfishsilica-terabytes</source>

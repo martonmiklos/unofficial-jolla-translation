@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>tutorial-la-swipe_left_to_home</source>
-        <translation>Swipe-olj balra a kezdőképernyőhöz visszatéréshez.</translation>
+        <translation>Lapozz balra a kezdőképernyőhöz visszatéréshez.</translation>
     </message>
     <message>
         <source>tutorial-timer_model_egg</source>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>tutorial-la-unlock_to_home</source>
-        <translation>Swipe-olj a jobb oldalról a képernyőn kívülről a feloldáshoz</translation>
+        <translation>Lapozz a jobb oldalról a képernyőn kívülről a feloldáshoz</translation>
     </message>
     <message>
         <source>tutorial-la-am</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>tutorial-la-swipe_to_close_grid</source>
-        <translation>Swipe-olj a felső éltől lefelé a bezáráshoz.</translation>
+        <translation>Lapozz a felső éltől lefelé a bezáráshoz</translation>
     </message>
     <message>
         <source>tutorial-la-running_app</source>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>tutorial-la-swipe_to_eventsview</source>
-        <translation>Swipe-olj jobbra az Események nézethez</translation>
+        <translation>Lapozz jobbra az Események nézethez</translation>
     </message>
     <message>
         <source>tutorial-la-recap_tablet_pulley_menu</source>
@@ -233,7 +233,7 @@
     </message>
     <message>
         <source>tutorial-la-swipe_left_right_to_home</source>
-        <translation>Swipe-olj bal vagy jobb oldalon a képernyőn kívülről a kezdőképernyőhöz való visszatéréshez</translation>
+        <translation>Lapozz bal vagy jobb oldalon a képernyőn kívülről a kezdőképernyőhöz való visszatéréshez</translation>
     </message>
     <message>
         <source>tutorial-la-lock_screen</source>
@@ -361,11 +361,11 @@
     </message>
     <message>
         <source>tutorial-la-swipe_to_launcher</source>
-        <translation>Swipe-olj az alsó éltől az appok megjelenítéséhez</translation>
+        <translation>Lapozz az alsó éltől a telepített alkalmazások megjelenítéséhez</translation>
     </message>
     <message>
         <source>tutorial-la-swipe_to_previous</source>
-        <translation>Swipe-olj jobbra az előző nézethez visszatéréshez</translation>
+        <translation>Lapozz jobbra az előző nézethez visszatéréshez</translation>
     </message>
     <message>
         <source>tutorial-bt-start</source>

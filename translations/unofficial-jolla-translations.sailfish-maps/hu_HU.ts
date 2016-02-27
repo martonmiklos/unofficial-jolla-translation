@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>maps-la-ahoy</source>
-        <translation>Helló! Pöccintsd balra, hogy lásd a térképet!</translation>
+        <translation>Helló! Lapozz balra, a térkép megjelenítéséhez!</translation>
     </message>
     <message>
         <source>maps-la-from</source>

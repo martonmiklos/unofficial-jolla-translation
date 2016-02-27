@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>sailfish_browser-la-pull_down_to_create_tab_hint</source>
-        <translation>Húzd le új lap nyitásához</translation>
+        <translation>Új lap megnyitásához húzd le a menüt</translation>
     </message>
     <message>
         <source>sailfish_browser-me-share_link</source>

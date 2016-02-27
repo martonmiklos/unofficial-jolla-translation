@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>settings_text_input-la-close_from_top_hint</source>
-        <translation>Fentről pöckölés használható nyitott alkalmazás bezárására, vagy képernyő zárolására</translation>
+        <translation>Fentről lapozás használható nyitott alkalmazás bezárására, vagy képernyő zárolására</translation>
     </message>
     <message>
         <source>settings_system-backup</source>
@@ -293,7 +293,7 @@
     </message>
     <message>
         <source>settings_shortcuts-la-edge_swipes</source>
-        <translation>Oldali swipe-ok</translation>
+        <translation>Oldalsó lapozások</translation>
     </message>
     <message>
         <source>settings_display-la-orientation_dynamic</source>
@@ -709,7 +709,7 @@
     </message>
     <message>
         <source>settings_display-la-close_by_swiping</source>
-        <translation>Pöccentéses bezárás engedélyezése</translation>
+        <translation>Lefelé lapozásos bezárás engedélyezése</translation>
     </message>
     <message>
         <source>settings_about-he-mass_storage_usage</source>
@@ -1025,7 +1025,7 @@
     </message>
     <message>
         <source>settings_text_input-la-left_peek_at_events_hint</source>
-        <translation>Bal oldali swipe mindig az eseményeket mutassa a kezdőképernyő helyett</translation>
+        <translation>Bal oldali lapozás mindig az eseményeket mutassa a kezdőképernyő helyett</translation>
     </message>
     <message>
         <source>settings_system-notifications</source>

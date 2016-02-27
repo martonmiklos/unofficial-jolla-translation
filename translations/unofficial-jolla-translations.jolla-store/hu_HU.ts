@@ -305,7 +305,7 @@
     </message>
     <message>
         <source>jolla-store-li-being_offline</source>
-        <translation>Sajnálom, most nem tudok az Áruházhoz kapcsolódni. Kérlek próbáld meg később.</translation>
+        <translation>Sajnálom, nem sikerült az Áruházhoz kapcsolódni. Ellenőrízd az internetkapcsolatot!</translation>
     </message>
     <message>
         <source>jolla-store-no-error_general_server_error</source>
@@ -405,7 +405,7 @@
     </message>
     <message>
         <source>jolla-store-he-installed_apps</source>
-        <translation>Alkalmazásaim</translation>
+        <translation>Telepített alkalmazások</translation>
     </message>
     <message>
         <source>jolla-store-la-category_apps_network</source>
