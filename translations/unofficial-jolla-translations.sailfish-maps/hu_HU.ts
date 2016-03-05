@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>maps-he-whats_near</source>
-        <translation>Mi van a közelben</translation>
+        <translation>Mi van a közelben?</translation>
     </message>
     <message>
         <source>maps_settings-he-maps</source>
@@ -97,15 +97,15 @@
     </message>
     <message>
         <source>maps-la-maps_eula</source>
-        <translation>A térképhasználatot a &lt;a href=&apos;eula&apos;&gt;Sailfish EULA&lt;/a&gt; szabályozza. Harmadik féltől származó térképadatokra vonatkozó a harmadik félre &lt;a href=&apos;here&apos;&gt;itt&lt;/a&gt; található szabályozás érvényes. A Jolla nem vállal felelősséget a harmadik féltől származó tartalomért</translation>
+        <translation>A térképhasználatot a &lt;a href=&apos;eula&apos;&gt;Sailfish EULA&lt;/a&gt; szabályozza. A harmadik féltől származó térképadatokra vonatkozó a szabályozás &lt;a href=&apos;here&apos;&gt;itt&lt;/a&gt; található. A Jolla nem vállal felelősséget a harmadik féltől származó tartalomért</translation>
     </message>
     <message>
         <source>maps-la-location_name</source>
-        <translation>Hely elnevezése</translation>
+        <translation>Hely megnevezése</translation>
     </message>
     <message>
         <source>maps-me-car</source>
-        <translation>autó</translation>
+        <translation>gépkocsi</translation>
     </message>
     <message>
         <source>maps-la-yds</source>
@@ -113,7 +113,7 @@
     </message>
     <message>
         <source>maps-me-foot</source>
-        <translation>láb</translation>
+        <translation>gyalogos</translation>
     </message>
     <message>
         <source>maps-me-edit</source>
@@ -125,15 +125,15 @@
     </message>
     <message>
         <source>maps-la-ahoy</source>
-        <translation>Helló! Lapozz balra, a térkép megjelenítéséhez!</translation>
+        <translation>Húzz balra, a térkép megjelenítéséhez!</translation>
     </message>
     <message>
         <source>maps-la-from</source>
-        <translation>Küldő</translation>
+        <translation>Innen</translation>
     </message>
     <message>
         <source>maps-bt-directions</source>
-        <translation>Irányok</translation>
+        <translation>Útvonaltervezés</translation>
     </message>
     <message>
         <source>maps-me-share</source>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>maps-bt-whats_near</source>
-        <translation>Mi van a közelben</translation>
+        <translation>Közeli helyek</translation>
     </message>
     <message>
         <source>maps-he-popular_places</source>
@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>maps-la-by</source>
-        <translation>Ettől</translation>
+        <translation>Mód</translation>
     </message>
     <message>
         <source>maps-la-mi</source>
@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>maps-la-to</source>
-        <translation>Címzett</translation>
+        <translation>Ide</translation>
     </message>
     <message>
         <source>maps-la-single_tap_header</source>
@@ -317,7 +317,7 @@
     </message>
     <message>
         <source>maps-he-show_directions</source>
-        <translation>Irány mutatása</translation>
+        <translation>Útvonal tervezése</translation>
     </message>
     <message>
         <source>maps-la-street_map</source>
@@ -333,7 +333,7 @@
     </message>
     <message>
         <source>maps-ph-my_location</source>
-        <translation>Helyzetem</translation>
+        <translation>Jelenlegi helyzetem</translation>
     </message>
     <message>
         <source>maps_settings-me-imperial</source>

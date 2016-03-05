@@ -189,7 +189,7 @@
     </message>
     <message>
         <source>calendar-me-change_year</source>
-        <translation>Év megváltoztatása</translation>
+        <translation>Ugrás másik évre</translation>
     </message>
     <message>
         <source>jolla-calendar-import-successfull</source>
@@ -273,7 +273,7 @@
     </message>
     <message>
         <source>calendar-date_pattern_month_year</source>
-        <translation>MMMM yyyy</translation>
+        <translation>yyyy MMMM</translation>
     </message>
     <message>
         <source>calendar-add-once</source>
