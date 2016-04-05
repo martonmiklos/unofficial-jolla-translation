@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>sailfish-components-lipstick-la-show-more</source>
-        <translation>Többet mutat</translation>
+        <translation>Továbbiak</translation>
     </message>
 </context>
 </TS>

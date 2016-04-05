@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>weather-la-description_partly_cloudy_and_light_snow</source>
-        <translation>Enyhén felhős, hószállingózá</translation>
+        <translation>Enyhén felhős, hószállingózás</translation>
     </message>
     <message>
         <source>weather-la-weather_loading_failed</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>weather-la-description_partly_cloudy</source>
-        <translation>Enyhén felhő</translation>
+        <translation>Enyhén felhős</translation>
     </message>
     <message>
         <source>weather-la-description_overcast_and_snow_showers</source>

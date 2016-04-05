@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>jolla-clock-la-stopwatch_seconds</source>
-        <translation>%n second</translation>
+        <translation>%n másodperc</translation>
     </message>
     <message>
         <source>jolla-clock-le-total</source>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>jolla-clock-le-lap</source>
-        <translation>Kör</translation>
+        <translation>Köridő</translation>
     </message>
     <message>
         <source>clock-me-edit</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>jolla-clock-la-in_n_seconds</source>
-        <translation>in %n second</translation>
+        <translation>%n másodperc múlva</translation>
     </message>
     <message>
         <source>clock-va-timer_duration_min</source>

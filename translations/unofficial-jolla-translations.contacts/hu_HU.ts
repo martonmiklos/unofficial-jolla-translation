@@ -249,7 +249,7 @@
     </message>
     <message>
         <source>contacts-ph-detail_field_address_country</source>
-        <translation>Orzság bevitele</translation>
+        <translation>Ország</translation>
     </message>
     <message>
         <source>contacts-la-no_contacts_removed</source>
@@ -265,7 +265,7 @@
     </message>
     <message>
         <source>contacts-la-detail_type_website_homepage</source>
-        <translation>Kezdőlap</translation>
+        <translation>Weboldal címe</translation>
     </message>
     <message>
         <source>contacts-la-detail_type-company</source>
@@ -349,7 +349,7 @@
     </message>
     <message>
         <source>contacts-ph-detail_field_address_street</source>
-        <translation>Utcacím bevitele</translation>
+        <translation>Utca</translation>
     </message>
     <message>
         <source>contacts-la-detail_type_address_parcel</source>
@@ -361,7 +361,7 @@
     </message>
     <message>
         <source>contacts-ph-detail_field_address_region</source>
-        <translation>Add meg a megyét/államot</translation>
+        <translation>Megye/állam</translation>
     </message>
     <message>
         <source>contacts-he-header_import_from_n9</source>
@@ -425,7 +425,7 @@
     </message>
     <message>
         <source>contacts-la-short_detail_label_work</source>
-        <translation>Munkahely</translation>
+        <translation>Munkahelyi</translation>
     </message>
     <message>
         <source>contacts-la-detail_type_website_favorite</source>
@@ -505,7 +505,7 @@
     </message>
     <message>
         <source>contacts-ph-detail_field_address_pobox</source>
-        <translation>Add meg a postafiókot</translation>
+        <translation>Postafiók</translation>
     </message>
     <message>
         <source>contacts-bt-add_google_account</source>
@@ -529,7 +529,7 @@
     </message>
     <message>
         <source>contacts-ph-detail_field_address_locality</source>
-        <translation>Település megadása</translation>
+        <translation>Település</translation>
     </message>
     <message>
         <source>contacts-la-import_select_account</source>
@@ -569,7 +569,7 @@
     </message>
     <message>
         <source>contacts-ph-detail_field_address_postcode</source>
-        <translation>Add meg az irányítószámot</translation>
+        <translation>Irányítószám</translation>
     </message>
     <message>
         <source>contacts-bt-contact_website</source>

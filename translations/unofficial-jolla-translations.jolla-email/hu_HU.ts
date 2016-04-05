@@ -257,7 +257,7 @@
     </message>
     <message>
         <source>jolla-email-la-attachment_not_downloaded</source>
-        <translation>Nem letöltött</translation>
+        <translation>Még nincs letöltve</translation>
     </message>
     <message>
         <source>settings_email-he-email</source>
@@ -445,7 +445,7 @@
     </message>
     <message>
         <source>jolla-email-la-priority_Normal</source>
-        <translation>Normális</translation>
+        <translation>Normál</translation>
     </message>
     <message>
         <source>jolla-email-la-attachment_failed</source>
@@ -465,7 +465,7 @@
     </message>
     <message>
         <source>jolla-email-no-unsupported_file_type</source>
-        <translation>Nem támogatott fájltípu</translation>
+        <translation>Nem támogatott fájltípus</translation>
     </message>
     <message>
         <source>jolla-email-la-calendar_invitation_failed_save</source>

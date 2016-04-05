@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>csd-he-battery_resistance</source>
-        <translation>Akkumulátor-ellenállás</translation>
+        <translation>Akkumulátor belső ellenállása</translation>
     </message>
     <message>
         <source>csd-la-system_temperature</source>
@@ -493,7 +493,7 @@
     </message>
     <message>
         <source>csd-la-automated_touch_ic_test_ongoing</source>
-        <translation>Az automatikus érintő IC teszt folyamatban van. Kérlek várj pár pillanatot amíg a teszt befejeződik.</translation>
+        <translation>Az automatikus érintő IC teszt folyamatban van. Kérlek várj amíg a teszt befejeződik.</translation>
     </message>
     <message>
         <source>csd-la-checking_gyro_minmax</source>
@@ -577,7 +577,7 @@
     </message>
     <message>
         <source>csd-la-audio_play_music_loudspeaker_runin_description</source>
-        <translation type="unfinished">1. Bizonyosodj meg, hogy fejhallgató nincs csatlakoztatva.</translation>
+        <translation>1. Bizonyosodj meg, hogy fejhallgató nincs csatlakoztatva.</translation>
     </message>
     <message>
         <source>csd-li-loudspeaker_playback</source>
@@ -813,7 +813,7 @@
     </message>
     <message>
         <source>csd-he-disclaimer</source>
-        <translation>Jognyilatkozat</translation>
+        <translation>Felhasználási feltételek</translation>
     </message>
     <message>
         <source>csd-la-low_power_description</source>
@@ -1029,7 +1029,7 @@
     </message>
     <message>
         <source>csd-la-minutes</source>
-        <translation>%0 perc ehhez %1</translation>
+        <translation>%0 perc múlva %1</translation>
     </message>
     <message>
         <source>csd-la-network_status</source>
@@ -1289,7 +1289,7 @@
     </message>
     <message>
         <source>csd-he-sensor</source>
-        <translation>Érzékelő</translation>
+        <translation>Érzékelők</translation>
     </message>
     <message>
         <source>csd-la-verification_audio_above_mic_record_play_description</source>
@@ -1381,7 +1381,7 @@
     </message>
     <message>
         <source>csd-la-audio_top_mic_description</source>
-        <translation>1. Bizonyosodj meg, hogy fejhallgató nincs csatlakoztatva.&lt;br&gt;2. Nyomd meg a  &apos;Felvétel&apos; gombot majd beszélj az alsó mikrofonba.</translation>
+        <translation>1. Bizonyosodj meg, hogy fejhallgató nincs csatlakoztatva.&lt;br&gt;2. Nyomd meg a  &apos;Felvétel&apos; gombot majd beszélj a felső mikrofonba.</translation>
     </message>
     <message>
         <source>csd-la-bluetooth_status_pass</source>

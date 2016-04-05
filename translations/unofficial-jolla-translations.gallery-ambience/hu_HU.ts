@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
         <source>jolla-gallery-ambience-la-ambience-name</source>
-        <translation>Környezet neve</translation>
+        <translation>Téma neve</translation>
     </message>
     <message>
         <source> jolla-gallery-ambience-sound-la-current-clock-tone</source>
@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>jolla-gallery-ambience-me-set_ambience</source>
-        <translation>Környezet beállítása</translation>
+        <translation>Téma használata</translation>
     </message>
     <message>
         <source>jolla-gallery-ambience-la-ambience-color</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>jolla-gallery-ambience-delete-ambience</source>
-        <translation>Környezet törlése</translation>
+        <translation>Téma törlése</translation>
     </message>
     <message>
         <source> jolla-gallery-ambience-sound-la-current-mail-tone</source>
@@ -109,7 +109,7 @@
     </message>
     <message>
         <source>jolla-gallery-ambience-me-remove_ambience</source>
-        <translation>Környezet eltávolítása</translation>
+        <translation>Téma eltávolítása</translation>
     </message>
     <message>
         <source> jolla-gallery-ambience-sound-la-ringtone</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>jolla-gallery-ambience-ph_write_name</source>
-        <translation>Környezet neve</translation>
+        <translation>Téma neve</translation>
     </message>
     <message>
         <source> jolla-gallery-ambience-sound-la-chat</source>

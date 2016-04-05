@@ -353,7 +353,7 @@
     </message>
     <message>
         <source>jolla-store-la-category_ambiances</source>
-        <translation>Környezet</translation>
+        <translation>Témák</translation>
     </message>
     <message>
         <source>jolla-store-la-category_games_puzzle</source>

@@ -249,11 +249,11 @@
     </message>
     <message>
         <source>settings_network-la-secure_wpa</source>
-        <translation>Biztonságos (WPA-PSK)</translation>
+        <translation>Titkosított (WPA-PSK)</translation>
     </message>
     <message>
         <source>settings_network-la-secure_wep</source>
-        <translation>Biztonságos (WEP)</translation>
+        <translation>Titkosított de nem biztonságos (WEP)</translation>
     </message>
     <message>
         <source>settings_network-la-connection_failure</source>
@@ -457,7 +457,7 @@
     </message>
     <message>
         <source>settings_network-la-secure_network</source>
-        <translation>Biztonságos</translation>
+        <translation>Titkosított</translation>
     </message>
     <message>
         <source>settings_network-he-network_searching_networks</source>

@@ -237,7 +237,7 @@
     </message>
     <message>
         <source>messages-la-conversation_change_type</source>
-        <translation>Típus megváltoztatása</translation>
+        <translation>Üzenet típusa</translation>
     </message>
     <message>
         <source>settings_messages-he-mms</source>

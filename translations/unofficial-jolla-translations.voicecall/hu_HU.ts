@@ -553,7 +553,7 @@
     </message>
     <message>
         <source>voicecall-la-no-network</source>
-        <translation>Nincs hálózati lefedettség</translation>
+        <translation>Nincs térerő</translation>
     </message>
     <message>
         <source>voicecall-la-apn_settings_saved</source>

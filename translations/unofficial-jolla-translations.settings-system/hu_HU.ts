@@ -917,7 +917,7 @@
     </message>
     <message>
         <source>settings_system-ambiance</source>
-        <translation>Környezet</translation>
+        <translation>Téma</translation>
     </message>
     <message>
         <source>settings_display-la-left_peek_at_events</source>
