@@ -117,7 +117,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-folder_audiovideo</source>
-        <translation>Audió és videó</translation>
+        <translation>Hang és videó</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-la-devicelock_incorrect_lock_code</source>
@@ -285,7 +285,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-enter-folder-name</source>
-        <translation>Mappanév megadása</translation>
+        <translation>Mappa átnevezése</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-la-user_acknowledge_long_listening_warning</source>
@@ -365,7 +365,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-folder_audio</source>
-        <translation>Audió</translation>
+        <translation>Hangok</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-la-connection_connecting</source>
@@ -385,7 +385,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-la-audio_warning</source>
-        <translation>Az esetleges halláskárosodás megelőzése érdekében ne hallgasd nagy hangerővel hosszú ideig</translation>
+        <translation>Az esetleges halláskárosodás megelőzése érdekében ne hallgasd a készüléket nagy hangerővel hosszú ideig</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-la-ringtone_volume</source>

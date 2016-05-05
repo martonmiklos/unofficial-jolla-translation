@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>tutorial-la-recap_pulley_menu_alternative</source>
-        <translation>Most már tudod, hogy a kesztyű  fent lenyíló menü és megtanultad, hogyan tudhatsz meg többet a Jolla Programindítójáról.</translation>
+        <translation>Most már tudod, hogyan működik a lehúzható menü és megtanultad, hogyan tudhatsz meg többet a Jolla Programindítójáról.</translation>
     </message>
     <message>
         <source>tutorial-la-call_history</source>

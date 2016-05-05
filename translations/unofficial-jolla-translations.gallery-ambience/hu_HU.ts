@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>jolla-gallery-ambience-la-reset-color</source>
-        <translation>Érintsd meg a visszaállításhoz</translation>
+        <translation>Érintsd meg itt a visszaállításhoz</translation>
     </message>
     <message>
         <source>jolla-gallery-ambience-la-add-actions</source>

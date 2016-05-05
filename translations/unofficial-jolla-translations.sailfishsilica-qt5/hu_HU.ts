@@ -133,7 +133,7 @@
     </message>
     <message>
         <source>components-la-tap-to-cancel</source>
-        <translation>Érintsd meg a visszavonáshoz</translation>
+        <translation>Érintsd meg itt a visszavonáshoz</translation>
     </message>
     <message>
         <source>sailfishsilica-monthname_october_standalone_short</source>
@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>components-la-tap-to-cancel-appended</source>
-        <translation>, érintsd meg a visszavonáshoz</translation>
+        <translation>, érintsd meg itt a visszavonáshoz</translation>
     </message>
     <message>
         <source>sailfishsilica-monthname_august_standalone</source>

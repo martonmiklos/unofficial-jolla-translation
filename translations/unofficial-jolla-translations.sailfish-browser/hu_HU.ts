@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>sailfish_browser-he-upload_audio</source>
-        <translation>Audiofájl feltöltése</translation>
+        <translation>Hangfájl feltöltése</translation>
     </message>
     <message>
         <source>sailfish_browser-he-add_bookmark_to_launcher</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>sailfish_browser-ls-save_password_no_user</source>
-        <translation>Kívánod menteni a jelszót itt: %1?</translation>
+        <translation>Szeretnéd a jelszó megjegyzését itt: %1?</translation>
     </message>
     <message>
         <source>sailfish_browser-ph-title_edit</source>
@@ -117,7 +117,7 @@
     </message>
     <message>
         <source>sailfish_browser-he-upload_audio_files</source>
-        <translation>Audiofájlok feltöltése</translation>
+        <translation>Hangfájlok feltöltése</translation>
     </message>
     <message>
         <source>sailfish_browser-me-normal_browsing</source>

@@ -297,7 +297,7 @@
     </message>
     <message>
         <source>jolla-components_email-la-bcc</source>
-        <translation>Bc</translation>
+        <translation type="unfinished">Bcc</translation>
     </message>
     <message>
         <source>jolla-email-la-calendar_invitation_not_downloaded</source>

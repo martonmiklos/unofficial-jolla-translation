@@ -429,7 +429,7 @@
     </message>
     <message>
         <source>jolla-store-li-updatable</source>
-        <translation>Frissítés érhető el</translation>
+        <translation>Frissíthető</translation>
     </message>
     <message>
         <source>jolla-store-la-app_grid_likes</source>

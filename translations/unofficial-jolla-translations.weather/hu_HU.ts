@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>weather-la-unable_to_connect_try_again</source>
-        <translation>Nem sikerült csatlakozni. Próbálja újra.</translation>
+        <translation>Nem sikerült csatlakozni. Próbáld újra.</translation>
     </message>
 </context>
 </TS>

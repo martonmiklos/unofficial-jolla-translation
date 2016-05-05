@@ -69,11 +69,11 @@
     </message>
     <message>
         <source>weather-la-description_overcast_and_light_rain</source>
-        <translation>Borús, enyhe eső</translation>
+        <translation>Borult, enyhe eső</translation>
     </message>
     <message>
         <source>weather-la-description_overcast_and_light_snow</source>
-        <translation>Borús, enyhe havazá</translation>
+        <translation>Borult, enyhe havazás</translation>
     </message>
     <message>
         <source>weather-la-description_overcast_and_wet_snow_showers</source>
@@ -101,7 +101,7 @@
     </message>
     <message>
         <source>weather-la-description_overcast_and_snow_showers</source>
-        <translation>Borús és havaseső</translation>
+        <translation>Borult, havaseső</translation>
     </message>
     <message>
         <source>weather-la-powered_by</source>
@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>weather-la-description_mostly_clear</source>
-        <translation>Többnyire tiszta</translation>
+        <translation>Túlnyomóan tiszta</translation>
     </message>
     <message>
         <source>weather-la-precipirationtype_none</source>
