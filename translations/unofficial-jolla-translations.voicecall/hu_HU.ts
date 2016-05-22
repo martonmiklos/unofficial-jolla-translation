@@ -401,7 +401,7 @@
     </message>
     <message>
         <source>voicecall-ui-jolla-la-restart_to_activate_4g</source>
-        <translation>A 4G csak az eszköz újraindítása után lesz engedélyezve</translation>
+        <translation>A 4G csak a készülék újraindítása után lesz engedélyezve</translation>
     </message>
     <message>
         <source>settings_phone-la-call_waiting</source>

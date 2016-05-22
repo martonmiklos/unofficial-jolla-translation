@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>contacts-la-prompt_import_from_android</source>
-        <translation>A névjegyeid valószínűleg már szinkronizálva vannak a Google fiókoddal. Ezt úgy ellenőrizheted, hogy az Androidos eszközödön bemész a &apos;Beállítások / Fiókok / Google&apos; menüpontba.&lt;br&gt;&lt;br&gt;Ha a &apos;Névjegyzék szinkronizálása&apos; opció ki van választva akkor a névjegyzéked elérhető a Google fiókodban. Ha ezt a fiókot beállítod a készüléken akkor névjegyek leszinkronizálódnak. Ha az opció nincs bekapcsolva akkor kapcsold be majd a szinkronizáció befejeződése után állítsd be a Google fiókot ezen a készüléken.</translation>
+        <translation>A névjegyeid valószínűleg már szinkronizálva vannak a Google fiókoddal. Ezt úgy ellenőrizheted, hogy az Androidos készülékeden megnyitod a &apos;Beállítások / Fiókok / Google&apos; menüpontot.&lt;br&gt;&lt;br&gt;Ha a &apos;Névjegyzék szinkronizálása&apos; opció ki van választva akkor a névjegyzéked elérhető a Google fiókodban. Ha ezt a fiókot beállítod a készüléken akkor névjegyek automatikusan leszinkronizálódnak. Ha az opció nincs bekapcsolva akkor kapcsold be most, majd a szinkronizáció befejeződése után állítsd be a Google fiókot ezen a készüléken.</translation>
     </message>
     <message>
         <source>contacts-he-header_import_from_wp8</source>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <source>contacts-la-prompt_import_from_symbian</source>
-        <translation>A legegyszerűbb módja a névjegyek átvitelének egy Symbianos eszközről a Bluetoothon keresztüli szinkronizáció. A Bluetooth szinkronizálást a Beállítások | Rendszer | Szinkronizálás és biztonsági mentés | Bluetooth szinkronizálás menüpont alatt éred el ezen az eszközön.</translation>
+        <translation>A legegyszerűbb módja a névjegyek átvitelének egy Symbianos készülékről a Bluetoothon keresztüli szinkronizáció. A Bluetooth szinkronizálást a Beállítások | Rendszer | Szinkronizálás és biztonsági mentés | Bluetooth szinkronizálás menüpont alatt éred el ezen a készüléken.</translation>
     </message>
     <message>
         <source>contacts-he-remove_device_contacts</source>
@@ -641,7 +641,7 @@
     </message>
     <message>
         <source>contacts-la-remove_detail</source>
-        <translation>Információ törlése</translation>
+        <translation>Adat törlése</translation>
     </message>
     <message>
         <source>contacts-la-add_field</source>

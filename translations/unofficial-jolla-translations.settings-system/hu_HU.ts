@@ -525,7 +525,7 @@
     </message>
     <message>
         <source>settings_shortcuts-la-lock_screen_hint</source>
-        <translation>Lehetőséged van lezáró képernyő lehúzható menüjébe rögzíteni a kedvenc alkalmazásaidat. %n alkalmazász választhatsz ki.</translation>
+        <translation>Itt tudsz a lezárt kijelző lehúzható menüjébe linkeket rögzíteni a kedvenc alkalmazásaidra. %n alkalmazást választhatsz ki.</translation>
     </message>
     <message>
         <source>settings_about-li-disk_usage-sailfish_os</source>

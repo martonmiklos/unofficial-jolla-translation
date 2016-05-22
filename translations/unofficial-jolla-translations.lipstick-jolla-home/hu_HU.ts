@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-la-sim_reboot</source>
-        <translation>Az eszköz újraindítása nélkül a SIM kártya lehet nem működik majd megbízhatóan.</translation>
+        <translation>A készülék újraindítása nélkül a SIM kártya lehet nem működik majd megbízhatóan.</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-bt-usb_connected</source>

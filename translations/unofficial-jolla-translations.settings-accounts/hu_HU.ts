@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>jolla_settings_accounts_extensions-he-consent</source>
-        <translation>Hozzájárulás</translation>
+        <translation>Feltételek elfogadása</translation>
     </message>
     <message>
         <source>components_accounts-ph-sip_alias</source>

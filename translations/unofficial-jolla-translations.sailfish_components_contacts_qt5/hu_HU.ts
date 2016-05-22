@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>components_contacts-la-link_suggestions</source>
-        <translation>Javaslatok a kapcsolatra</translation>
+        <translation>Összevonási javaslatok</translation>
     </message>
     <message>
         <source>components_contacts-la-detail_type_im_impp</source>
@@ -281,7 +281,7 @@
     </message>
     <message>
         <source>components_contacts-me-link</source>
-        <translation>Link</translation>
+        <translation>Összevonás másik névjeggyel</translation>
     </message>
     <message>
         <source>components_contacts-me-save</source>
