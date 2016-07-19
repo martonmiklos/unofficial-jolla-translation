@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>components_accounts-la-activesync_domain</source>
-        <translation>Kiszolgáló domén</translation>
+        <translation>Kiszolgáló domain</translation>
     </message>
     <message>
         <source>components_accounts-la-activesync-credentials-failed</source>
@@ -277,7 +277,7 @@
     </message>
     <message>
         <source>components_accounts-ph-activesync_domain</source>
-        <translation>A kiszolgáló domén szerkesztése</translation>
+        <translation>A kiszolgáló domain szerkesztése</translation>
     </message>
     <message>
         <source>components_accounts-me-activesync_sync-1-week</source>

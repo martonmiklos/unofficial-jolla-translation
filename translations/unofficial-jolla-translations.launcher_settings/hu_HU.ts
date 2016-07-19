@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>settings_about-la-jolla_trademark_notification</source>
-        <translation>A Jolla, a Sailfish és a The Other Half a Jolla Ltd. védjegyei, vagy bejegyzett védjegyei. A Jolla terméknevei a Jolla védjegyei, vagy bejegyzett védjegyei. Szoftvereinket szerzői jog, védjegyek, gyártási titkok és egyéb, Jollahoz, vagy licenctársaihoz kötött szellemi jogok védik.</translation>
+        <translation>A Jolla, a Sailfish és a The Other Half a Jolla Ltd. védjegyei, vagy bejegyzett védjegyei. A Jolla terméknevei vagy a Jolla Ltd. védjegyei, vagy bejegyzett védjegyei. Szoftvereinket szerzői jog, védjegyek, gyártási titkok és egyéb, Jollahoz, vagy licenctársaihoz kötött szellemi jogok védik.</translation>
     </message>
     <message>
         <source>launcher_settings-la-release</source>

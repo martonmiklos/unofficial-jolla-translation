@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>csd-la-is_red_led_on</source>
-        <translation>Világít a piros LED?</translation>
+        <translation>Pirosan világít a LED?</translation>
     </message>
     <message>
         <source>csd-la-satellites_in_use</source>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>csd-la-verification_proximity_sensor_description_phase_two</source>
-        <translation>1. Rakd az eszközt vízszintes felületre.&lt;br&gt;2. Ne takard le a közelség érzékelőt.&lt;br&gt;3. Nyomd meg a &apos;Tovább&apos; gombot az ellenőrzéshez.</translation>
+        <translation>1. Helyezd a készüléket vízszintes felületre.&lt;br&gt;2. Ne takard le a közelség érzékelőt.&lt;br&gt;3. Nyomd meg a &apos;Tovább&apos; gombot az ellenőrzéshez.</translation>
     </message>
     <message>
         <source>csd-la-please_plug_in_usb_for_charging</source>
@@ -241,7 +241,7 @@
     </message>
     <message>
         <source>csd-la-true</source>
-        <translation>igaz</translation>
+        <translation>igen</translation>
     </message>
     <message>
         <source>csd-la-stop</source>
@@ -313,7 +313,7 @@
     </message>
     <message>
         <source>csd-he-power</source>
-        <translation>Táp. fesz.</translation>
+        <translation>Áramfelvétel</translation>
     </message>
     <message>
         <source>csd-la-cover_state</source>
@@ -613,7 +613,7 @@
     </message>
     <message>
         <source>csd-la-is_green_led_on</source>
-        <translation>Világít a zöld LED?</translation>
+        <translation>Zölden világít a LED?</translation>
     </message>
     <message>
         <source>csd-he-usb-otg</source>
@@ -633,7 +633,7 @@
     </message>
     <message>
         <source>csd-la-is_blue_led_on</source>
-        <translation>Világít a kék LED?</translation>
+        <translation>Kéken világít a LED?</translation>
     </message>
     <message>
         <source>csd-la-checking_compass</source>
@@ -981,7 +981,7 @@
     </message>
     <message>
         <source>csd-la-verification_lcd_backglight_operation_hint_description</source>
-        <translation>Ez a teszt egy fehér képernyőt fog mutatni ami egyre fényesebb lesz. Nyomd meg a &apos;Start&apos;  gombot a teszt megkezdéséhez.</translation>
+        <translation>A teszt során először a kijelző teljes fényerőn fehér lesz majd fokozatosan elsötétül. Nyomd meg a &apos;Start&apos;  gombot a teszt megkezdéséhez.</translation>
     </message>
     <message>
         <source>csd-li-headset_buttons</source>
@@ -1425,7 +1425,7 @@
     </message>
     <message>
         <source>csd-la-no_sdcard_detected</source>
-        <translation>SD-kártyát nem érzékelek.</translation>
+        <translation>Az SD kártya jelenléte nem érzékelhető</translation>
     </message>
     <message>
         <source>csd-la-hall_detection_test_passed</source>

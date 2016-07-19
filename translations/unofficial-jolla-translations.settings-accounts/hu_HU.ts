@@ -1250,7 +1250,7 @@ Kérlek olvasd el mindkettőt figyelmesen mielőtt továbblépsz.</translation>
     </message>
     <message>
         <source>components_accounts-la-service_description_im</source>
-        <translation>Engedélyezi az alkalmazásoknak a chat-elést a %1 IM fiók használatával és a online státusz módosítását.</translation>
+        <translation>Engedélyezi az alkalmazásoknak a chat-elést a %1 IM fiókon keresztül és a online státusz módosítását.</translation>
     </message>
     <message>
         <source>settings-accounts-la-sync_options</source>

@@ -285,7 +285,7 @@
     </message>
     <message>
         <source>settings_about-he-about_device</source>
-        <translation>A termékről</translation>
+        <translation>A készülékről</translation>
     </message>
     <message>
         <source>settings_system-reset</source>
@@ -401,7 +401,7 @@
     </message>
     <message>
         <source>settings_about-la-validity</source>
-        <translation>Az ajánlat azt követő három évig érvényes, miután a Jolla a terméket a köz számára elérhetővé tett.</translation>
+        <translation>Az ajánlat azt követő három évig érvényes, miután a Jolla a terméket piacrra dobta.</translation>
     </message>
     <message>
         <source>settings_system-security_category</source>
@@ -417,7 +417,7 @@
     </message>
     <message>
         <source>settings_system-about_device</source>
-        <translation>A termékről</translation>
+        <translation>A készülékről</translation>
     </message>
     <message>
         <source>settings_devicelock-la-devicelock_set_lock_code.</source>

@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>jolla-email-me-send-all</source>
-        <translation>Send all</translation>
+        <translation>Összes elküldése</translation>
     </message>
     <message>
         <source>jolla-email-he-select_folder</source>
@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>jolla-email-la-send_failed</source>
-        <translation>A küldés nem sikerült</translation>
+        <translation>A küldés sikertelen</translation>
     </message>
     <message>
         <source>jolla-components_email-ph-attachments</source>

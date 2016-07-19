@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>settings_network-me-no_proxy</source>
-        <translation>Nincs tűzfal</translation>
+        <translation>Nincs proxy</translation>
     </message>
     <message>
         <source>settings_network-he-ip_address</source>
@@ -389,7 +389,7 @@
     </message>
     <message>
         <source>settings_network-bt-autoretrieve_ip</source>
-        <translation>Az IP-cmí automatikus lekérése</translation>
+        <translation>Az IP-cím automatikus lekérése</translation>
     </message>
     <message>
         <source>settings_network-me-network_mode_prefer_3G</source>
@@ -405,7 +405,7 @@
     </message>
     <message>
         <source>settings_network-la-default_domain_names</source>
-        <translation>Alapértelmezett doménnevek</translation>
+        <translation>Alapértelmezett domainnevek</translation>
     </message>
     <message>
         <source>settings_network-bt-network_mode</source>
@@ -481,7 +481,7 @@
     </message>
     <message>
         <source>settings_network-ph-enter_default_domain_names</source>
-        <translation>Az alap doménnév megadása</translation>
+        <translation>Az alap domainnév megadása</translation>
     </message>
     <message>
         <source>settings_network-me-no_network_activate_sim</source>

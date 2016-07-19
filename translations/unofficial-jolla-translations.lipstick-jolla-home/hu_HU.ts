@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>settings_quickaction-la-where_am_i</source>
-        <translation>Hol vagyok?</translation>
+        <translation>Jelenlegi pozícióm</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-la-connection_failure</source>

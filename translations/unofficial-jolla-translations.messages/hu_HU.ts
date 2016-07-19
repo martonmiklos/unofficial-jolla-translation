@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>jolla-messages-la-new_message</source>
-        <translation>SMS írása</translation>
+        <translation>Üzenet írása</translation>
     </message>
     <message>
         <source>settings_messages-la-mms_size_medium</source>
@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>messages-me-new_conversation</source>
-        <translation>SMS írása</translation>
+        <translation>Ütenet írása</translation>
     </message>
     <message>
         <source>messages-la-saved_n_contacts</source>

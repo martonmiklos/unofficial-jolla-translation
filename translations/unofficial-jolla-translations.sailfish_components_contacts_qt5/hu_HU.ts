@@ -313,7 +313,7 @@
     </message>
     <message>
         <source>components_contacts-la-short_detail_label_work</source>
-        <translation>Munkahely</translation>
+        <translation>Munkahelyi</translation>
     </message>
     <message>
         <source>components_contacts-la-detail_type_phone_pager</source>
@@ -381,7 +381,7 @@
     </message>
     <message>
         <source>contacts_settings-la-found_n_contacts_file</source>
-        <translation>%n névjegy találva itt: %1.</translation>
+        <translation>%n névjegyet találtam ebben: %1</translation>
     </message>
     <message>
         <source>components_contacts-me-add_contact_to_favorites</source>
@@ -465,11 +465,11 @@
     </message>
     <message>
         <source>components_contacts-he-activity</source>
-        <translation>Aktivitás</translation>
+        <translation>Kommunikációs előzmények</translation>
     </message>
     <message>
         <source>components_contacts-la-activity</source>
-        <translation>Aktivitás</translation>
+        <translation>Kommunikációs előzmények</translation>
     </message>
     <message>
         <source>components_contacts-la-received_call</source>
