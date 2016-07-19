@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>gallery-la-aperture</source>
-        <translation>Aperture</translation>
+        <translation>Apertúra</translation>
     </message>
     <message>
         <source>gallery-la-type</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>gallery-la-camera-manufacturer</source>
-        <translation>Camera manufacturer</translation>
+        <translation>Kamera gyártója</translation>
     </message>
     <message>
         <source>components_gallery-li-aspect_ratio_avatar</source>
@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>gallery-la-date-taken</source>
-        <translation>Date</translation>
+        <translation>Készült</translation>
     </message>
     <message>
         <source>components_gallery-li-rotate</source>
@@ -117,7 +117,7 @@
     </message>
     <message>
         <source>gallery-la-camera-model</source>
-        <translation>Camera model</translation>
+        <translation>Kamera típusa</translation>
     </message>
     <message>
         <source>gallery-value-focal-length</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>gallery-la-focal-length</source>
-        <translation>Focal length</translation>
+        <translation>Fókusztávolság</translation>
     </message>
     <message>
         <source>gallery-la-height</source>
