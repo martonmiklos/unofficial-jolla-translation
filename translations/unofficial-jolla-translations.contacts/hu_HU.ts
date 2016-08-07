@@ -509,7 +509,7 @@
     </message>
     <message>
         <source>contacts-bt-add_google_account</source>
-        <translation>Google-fiók hozzáadása a Jolládhoz</translation>
+        <translation>Google-fiók hozzáadása a készülékhez</translation>
     </message>
     <message>
         <source>contacts-la-n_contacts_available</source>

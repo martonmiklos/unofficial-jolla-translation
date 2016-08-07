@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>settings_accounts-la-jolla_account_description</source>
-        <translation>Az alkalmazások és programok frissítéseket a Jolla-fiókon keresztül éred el.</translation>
+        <translation>Az alkalmazás és rendszerfrissítéseket a Jolla-fiókon keresztül éred el.</translation>
     </message>
     <message>
         <source>jollacomponents_internal-accountfactory-service_account_recreate_failed</source>
@@ -1014,7 +1014,7 @@ Kérlek olvasd el mindkettőt figyelmesen mielőtt továbblépsz.</translation>
     </message>
     <message>
         <source>jolla_settings_accounts_extensions-la-google_consent_text</source>
-        <translation>Amikor Google fiókot hozol létre, a fiók információit az eszköz menti, a gyorsabb és jobb működés érdekében:&lt;br&gt;&lt;br&gt; A google-kapcsolatok hozzáadódnak a People alkalmazáshoz, és a meglévő címekhez, így képes leszel az Üzenetek alkalmazáson keresztül fogadni és küldeni Google Talk üzeneteket.&lt;br&gt;&lt;br&gt; A Google Calendar eseményei bekerülnek a Naptár alkalmazásba, és azok módosítása visszaírásra kerülnek a Google kiszolgálóra.&lt;br&gt;&lt;br&gt; Az adatok egy része megmarad, hogy kapcsolat nélküli módban is elérhető legyen. Ez a tároló bármikor üríthető a fiók beállítólapján az adott szolgáltatás letiltásával.&lt;br&gt;&lt;br&gt;Az eszközön Google-fiók létrehozása azt jelenti, hogy elfogadod a Google Szolgáltatási Feltételeit.</translation>
+        <translation>Amikor Google fiókot hozol létre, a fiók információit az eszköz menti, a gyorsabb és jobb működés érdekében:&lt;br&gt;&lt;br&gt; A Google-kapcsolatok hozzáadódnak a névjegyzékhez a meglévő címekhez, így képes leszel az Üzenetek alkalmazással Google Talk üzeneteket fogadni és küldeni.&lt;br&gt;&lt;br&gt; A Google Calendar eseményei bekerülnek a Naptár alkalmazásba, és azok módosítása visszaírásra kerülnek a Google kiszolgálóra.&lt;br&gt;&lt;br&gt; Az adatok egy része megmarad, hogy kapcsolat nélküli módban is elérhető legyen. Ez a tároló bármikor üríthető a fiók beállítólapján az adott szolgáltatás letiltásával.&lt;br&gt;&lt;br&gt;Az eszközön Google-fiók létrehozása azt jelenti, hogy elfogadod a Google Szolgáltatási Feltételeit.</translation>
     </message>
     <message>
         <source>components_accounts-la-service_description_microblogging</source>

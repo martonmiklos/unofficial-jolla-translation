@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="hu_HU">
+<TS version="2.0" language="hu_HU">
 <context>
     <name></name>
     <message>
@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>transferui-la_stop-transfer</source>
-        <translation>Állj</translation>
+        <translation>Megszakítás</translation>
     </message>
     <message>
         <source>transferui-la_transfer_waiting</source>

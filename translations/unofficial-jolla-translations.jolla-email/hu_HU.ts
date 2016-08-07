@@ -121,7 +121,7 @@
     </message>
     <message>
         <source>jolla-email-la-empty_list</source>
-        <translation>Nincs e-mailed</translation>
+        <translation>A mappa üres</translation>
     </message>
     <message>
         <source>jolla-components_email-la-attchements_summary</source>
@@ -133,7 +133,7 @@
     </message>
     <message>
         <source>jolla-email-la-sync_failed</source>
-        <translation>Probléma a szinkronizálással</translation>
+        <translation>Szinkronizálási probléma</translation>
     </message>
     <message>
         <source>jolla-email-la-send_failed</source>
@@ -297,7 +297,7 @@
     </message>
     <message>
         <source>jolla-components_email-la-bcc</source>
-        <translation type="unfinished">Bcc</translation>
+        <translation>Bcc</translation>
     </message>
     <message>
         <source>jolla-email-la-calendar_invitation_not_downloaded</source>

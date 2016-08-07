@@ -245,7 +245,7 @@
     </message>
     <message>
         <source>csd-la-stop</source>
-        <translation>Állj</translation>
+        <translation>Megszakítás</translation>
     </message>
     <message>
         <source>csd-la-status_bluetooth</source>

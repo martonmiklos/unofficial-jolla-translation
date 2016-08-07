@@ -4,7 +4,7 @@
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
 Version:	1.0.0
-Release:	0.0.10
+Release:	0.0.11
 Summary:	Nem hivatalos magyar nyelvi csomag
 
 Group: Qt/Qt
@@ -46,6 +46,8 @@ localedef -i %{LOCNAME} -f UTF-8 %{LOCNAME}.utf8
 localedef --delete-from-archive %{LOCNAME}.utf8
 
 %changelog
+* Sat Mar 05 2016 Miklos Marton <martonmiklosqdev@gmail.com> 1.0.0-0.0.11
+- Sok apróbb reszelgetés....
 * Sat Mar 05 2016 Miklos Marton <martonmiklosqdev@gmail.com> 1.0.0-0.0.10
 - Pöckölés/pöccintés/swipe lapozásra cserélve
 - Térkép férlefordítások javítva

@@ -585,7 +585,7 @@
     </message>
     <message>
         <source>settings_developermode-la-network</source>
-        <translation>Hálózatkezelés</translation>
+        <translation>Hálózati beállítások</translation>
     </message>
     <message>
         <source>settings_display-la-brightness</source>
@@ -817,7 +817,7 @@
     </message>
     <message>
         <source>settings_developermode-he-graphics</source>
-        <translation>Grafika</translation>
+        <translation>FPS megjelenítés</translation>
     </message>
     <message>
         <source>settings_system-untrusted_software</source>
@@ -949,7 +949,7 @@
     </message>
     <message>
         <source>settings_developermode-bu-register</source>
-        <translation>Regiszter</translation>
+        <translation>Regisztrálás</translation>
     </message>
     <message>
         <source>settings_reset-bt-devicelock_confirm</source>
@@ -969,7 +969,7 @@
     </message>
     <message>
         <source>settings_developermode-cb-framerate_display</source>
-        <translation>Képfrissítési érték megjelenítése</translation>
+        <translation>Képfrissítési érték (FPS) megjelenítése</translation>
     </message>
     <message>
         <source>settings_system-look_and_feel_category</source>
@@ -1021,7 +1021,7 @@
     </message>
     <message>
         <source>settings_developermode-ph-enter_password</source>
-        <translation>Állítsd be a SSH- és rendszergazda-jelszót</translation>
+        <translation>Állítsd be az SSH és rendszergazda-jelszót</translation>
     </message>
     <message>
         <source>settings_text_input-la-left_peek_at_events_hint</source>

@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-bt-developer_mode</source>
-        <translation>Fejlesztői mód</translation>
+        <translation>Fejlesztői eszközök</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-la-connecting</source>
@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-la-connection_invalid_key</source>
-        <translation>Helytelen értéket adtál meg. Próbáld újra.</translation>
+        <translation>Helytelen jelszót adtál meg. Próbáld újra.</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-bt-close</source>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-events-calendar_description</source>
-        <translation>A napi találkozóid az Események nézetben is megjelenítődnek. Az eseményekre koppintás megnyitja a Naptár alkalmazást a további részletekért.</translation>
+        <translation>A napi találkozók megjelenítése az Események nézetben. Az eseményekre koppintás megnyitja a Naptár alkalmazást a további részletekért.</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-la-wlan_flight_mode</source>
@@ -465,7 +465,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-events-weather_description</source>
-        <translation>Mutassa az időjárási információkat a kedvenc helyeiden az Események nézetben. Az időjárásra koppintással mutatni fogja az előrejelzést az elkövetkező 5 napra.</translation>
+        <translation>Időjárási információk megjelenítése a kiválasztott helyekről az Események nézetben. Az időjárásra koppintással megjelenítődik az elkövetkező 5 nap előjelzése.</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-folder_office</source>

@@ -23,7 +23,7 @@
     </message>
     <message>
         <source>sailfish-office-he-pdf_index</source>
-        <translation>Index</translation>
+        <translation>Tartalomjegyzék</translation>
     </message>
     <message>
         <source>sailfish-office-la-cover_no_documents</source>
@@ -52,7 +52,7 @@
     <message numerus="yes">
         <source>sailfish-office-lb-%n-pages</source>
         <translation>
-            <numerusform>Document has %n page</numerusform>
+            <numerusform>A dokumentum %n oldalas</numerusform>
         </translation>
     </message>
     <message>
