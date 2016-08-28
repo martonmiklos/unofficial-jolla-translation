@@ -477,7 +477,7 @@
     </message>
     <message>
         <source>lipstick-jolla-home-bt-wait</source>
-        <translation>Kérlek várj</translation>
+        <translation>Várakozás</translation>
     </message>
     <message>
         <source>lipstick-jolla-home-la-name_query</source>

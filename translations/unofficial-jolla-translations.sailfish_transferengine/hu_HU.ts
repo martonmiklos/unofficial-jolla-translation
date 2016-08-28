@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>transferui-la-file_type_specific_not_supported</source>
-        <translation>Fájl megnyitása sikertelen, a &apos;%1&apos; típus nem támogatott</translation>
+        <translation>Fájl megnyitása sikertelen, a(z) &apos;%1&apos; fájltípus nem támogatott</translation>
     </message>
     <message>
         <source>transferui-he_transfers</source>

@@ -29,7 +29,7 @@ Transifex format:
 '''
 
 def help() :
-    print "Usage: transifex_to_pootle_converter.py file_to_convert.ts template_file.ts output_file.ts"
+    print "Usage: transifex_to_pootle_converter.py file_to_convert.ts template_file.ts output_file.ts target_lang"
 
 def findTemplateElement(messageName, templateContext) :
     for message in templateContext.getElementsByTagName("message"):
@@ -38,13 +38,14 @@ def findTemplateElement(messageName, templateContext) :
     return 0
 
 def main() :
-    if (len(sys.argv) != 4) :
+    if (len(sys.argv) != 5) :
         help()
         return 0
 
     inFile = sys.argv[1]
     templateFile = sys.argv[2]
-    outFile= sys.argv[3]
+    outFile = sys.argv[3]
+    targetLang = sys.argv[4]
 
     inData = xml.dom.minidom.parse(inFile)
     templateData = xml.dom.minidom.parse(templateFile)
@@ -54,11 +55,16 @@ def main() :
         return 0
     inContext = inData.documentElement.getElementsByTagName("context")[0]
     
+    # overwrite the <TS> tag's language attribute
+    langAttr = inData.createAttribute('language')
+    langAttr.value = targetLang
+    inData.documentElement.setAttributeNode(langAttr)
+    
     if (len(templateData.documentElement.getElementsByTagName("context")) == 0) :
         print("No context tag found in the template file (%s)!" % templateFile)
         return 0
     templateContext = templateData.documentElement.getElementsByTagName("context")[0]
-    
+
     # all translations in the template will be marked with untranslated to be able 
     # to strings present in the template and not present in the translation unfinished
     # the untranslated attribute will be removed when the translation is found

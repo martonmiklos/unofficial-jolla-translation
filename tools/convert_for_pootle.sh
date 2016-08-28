@@ -3,6 +3,7 @@
 TRANSLATIONS_DIR="../translations"
 TEMPLATES_DIR="../templates"
 OUTPUT_DIR="../converted_for_pootle"
+TARGET_LANG="hu"
 retval=0
 for d in $TRANSLATIONS_DIR/*/ ; do
     # componentname will be something like: alarm-ui
@@ -15,10 +16,10 @@ for d in $TRANSLATIONS_DIR/*/ ; do
         outpath=`dirname $templatePath | sed -E 's/..\/templates\/(.*)/\1/g'`
         # create that dir in the output folder
         mkdir -p $OUTPUT_DIR/$outpath
-        ./transifex_to_pootle_converter.py $d/hu_HU.ts $templatePath $OUTPUT_DIR/$outpath/$componentName.ts
+        ./transifex_to_pootle_converter.py $d/hu_HU.ts $templatePath $OUTPUT_DIR/$outpath/$componentName.ts $TARGET_LANG
         retval=$?
         if [ $retval -ne 0 ]; then
-            echo "./transifex_to_pootle_converter.py $d/hu_HU.ts $templatePath $OUTPUT_DIR/$outpath/$componentName.ts failed"
+            echo "./transifex_to_pootle_converter.py $d/hu_HU.ts $templatePath $OUTPUT_DIR/$outpath/$componentName.ts $TARGET_LANG failed"
             break
         fi
     done
