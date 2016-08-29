@@ -1306,7 +1306,7 @@ Kérlek olvasd el mindkettőt figyelmesen mielőtt továbblépsz.</translation>
     </message>
     <message>
         <source>jolla_settings_accounts_extensions-la-dropbox-consent_text</source>
-        <translation>A Dropbox fiók hozzáadásával lehetőséged nyílik fájljaid a Dropbox felhőjébe történő mentésére. &lt;br&gt;&lt;br&gt;A fiók létrehozásához el kell fogadnod a Dropbox Szolgáltatási Feltételeket</translation>
+        <translation>Dropbox fiók hozzáadásával lehetőséged nyílik adataid Dropbox felhőbe történő mentésére. &lt;br&gt;&lt;br&gt;A fiók létrehozásához el kell fogadnod a Dropbox Szolgáltatási Feltételeit</translation>
     </message>
     <message>
         <source>jolla_settings_accounts_extensions-la-onedrive_duplicate_account</source>
