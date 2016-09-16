@@ -1,4 +1,6 @@
-# unofficial-jolla-translation
+# A projekt obsolete, a hivatalos fordítási projekt itt található: https://translate.sailfishos.org/hu/
+# This project is obsolete, the official translation project can be found here: https://translate.sailfishos.org/hu/
+
 Unofficial Hungarian translation for Jolla
 
 This is an unofficial Hungarian translation for the Jolla.
