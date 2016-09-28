@@ -8,14 +8,6 @@
 ##############################################
 
 
-if [ x"$TSLANG" == "x" -o x"$TSLANG" == "xja_JP" ]; then
-    TSLANG=ja
-fi
-
-if [  x"$TSLANG" == "xhu_HU" ]; then
-    TSLANG=hu
-fi
-
 PKGNAME=unofficial-jolla-language-pack-${TSLANG}
 
 if [ x"${TOPDIR}" == x ]; then

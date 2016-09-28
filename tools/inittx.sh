@@ -15,7 +15,7 @@ if [ -d .tx ]; then
     fi
 fi
 
-tx init --host https://www.transifex.com
-tx set --auto-remote https://www.transifex.com/projects/p/unofficial-jolla-translations/
-
+tx init --host http://www.transifex.com
+#tx set --auto-remote http://www.transifex.com/projects/p/unofficial-jolla-translations/
+tx set --auto-remote http://www.transifex.com/jozef-mlich/jolla-cesky/
 exit $?

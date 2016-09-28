@@ -55,8 +55,11 @@ def findRenamedTranslationIdFromTranslationMemory(translation, translationMemory
     inContext = inData.documentElement.getElementsByTagName("context")[0]
     for inMessage in inContext.getElementsByTagName("message"):
         if (inMessage.getElementsByTagName("source")[0].firstChild.nodeValue == oldId) :
-            #print("Found renamed translation: %s -> %s" % (oldId, newId))
-            return inMessage.getElementsByTagName("translation")[0].firstChild.nodeValue
+            translationTag = inMessage.getElementsByTagName("translation")[0]
+            if (not (translationTag.hasAttribute('type') and translationTag.attributes['type'].value == 'unfinished') ) :
+                return translationTag.firstChild.nodeValue
+            else :
+                break
     return ''
     
 def main() :
@@ -101,7 +104,11 @@ def main() :
         # loop on the <message> tags of the input file
         for inMessage in inContext.getElementsByTagName("message") :
             if (templateMessage.attributes["id"].value == inMessage.getElementsByTagName("source")[0].firstChild.nodeValue) :
-                translation = inMessage.getElementsByTagName("translation")[0].firstChild.nodeValue
+                translationTag = inMessage.getElementsByTagName("translation")[0]
+                if (not (translationTag.hasAttribute('type') and translationTag.attributes['type'].value == 'unfinished') ) :
+                    translation = translationTag.firstChild.nodeValue
+                else :
+                    break # a translation még unfinished
 
         
         if (templateMessage.getElementsByTagName("source")[0].hasChildNodes()) :    

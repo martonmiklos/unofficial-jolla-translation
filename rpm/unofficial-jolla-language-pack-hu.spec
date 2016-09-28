@@ -1,10 +1,10 @@
 #make sure change these variables to suit your language
 %define CONFLANG hu
-%define LOCNAME %{CONFLANG}_HU
+%define LOCNAME %{CONFLANG}
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
 Version:	1.0.0
-Release:	0.0.11
+Release:	0.0.12
 Summary:	Nem hivatalos magyar nyelvi csomag
 
 Group: Qt/Qt
@@ -46,12 +46,15 @@ localedef -i %{LOCNAME} -f UTF-8 %{LOCNAME}.utf8
 localedef --delete-from-archive %{LOCNAME}.utf8
 
 %changelog
+* Tue Sep 27 2016 Miklos Marton <martonmiklosqdev@gmail.com> 1.0.0-0.0.12
+- Első release a Transifex -> Pootle migráció után.
+- A 2.0.2 releaseben megjelenet stringek lefordítva
 * Sat Mar 05 2016 Miklos Marton <martonmiklosqdev@gmail.com> 1.0.0-0.0.11
 - Sok apróbb reszelgetés....
 * Sat Mar 05 2016 Miklos Marton <martonmiklosqdev@gmail.com> 1.0.0-0.0.10
 - Pöckölés/pöccintés/swipe lapozásra cserélve
 - Térkép férlefordítások javítva
-* Sun Feb 09 2016 Miklos Marton <martonmiklosqdev@gmail.com> 1.0.0-0.0.9
+* Tue Feb 09 2016 Miklos Marton <martonmiklosqdev@gmail.com> 1.0.0-0.0.9
 - Minor changes
 * Sun Feb 06 2016 Miklos Marton <martonmiklosqdev@gmail.com> 1.0.0-0.0.8
 - Minor changes
