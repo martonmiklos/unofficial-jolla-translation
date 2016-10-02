@@ -1,42 +1,21 @@
-# A projekt obsolete, a hivatalos fordítási projekt itt található: https://translate.sailfishos.org/hu/
-# This project is obsolete, the official translation project can be found here: https://translate.sailfishos.org/hu/
+# Various scripts for building RPM packages for the community languages
 
-Unofficial Hungarian translation for Jolla
+You can find the translation portal here:
+https://translate.sailfishos.org
 
-This is an unofficial Hungarian translation for the Jolla.
+Building an RPM requires the following things:
+- Translation project on the Pootle
+- RPM spec file in the rpm folder with: unofficial-jolla-language-pack-langcode.spec filename
+- Language file with the langcode.conf filename in the usr/share/jolla-supported-languages/ folder
+- lrelease in the path (could be installed by installing the Qt Linguist or other Qt dev tools) for creating the qm files.
+- wget, awk, bash, other standard Linux utilities
 
-After installing this change language to 'Magyar' in the Settings -> Languages menu
+RPM build process:
+// all commands executed from the checked out folder
+export POOTLE_LANG=langcode; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
+export POOTLE_LANG=langcode; export QM_SUFFIX=langcode; ./tools/createqm.sh 
+export LANGCODE=langcode; ./tools/createrpm.sh 
 
-Spacial thanks to:
+You can additionally install the package with the ./tools/install_on_device.sh. The script requires to have the jolla DNS name to be resolved to your device's address. 
 
-kenya888 (Takahiro Hashimoto) for creating and maintaining the translation project at the transifex:
-https://www.transifex.com/kenya888/unofficial-jolla-translations
-
-And for creating the extraction scripts:
-http://codereview.qt-users.jp/#/admin/projects/unofficial-jolla-language-pack-ja
-
-To the Hungarian translators:
-Leoka
-llg179 (LG Laszlo)
-rzalan13
-smatkovi (Sebastian Matkovich)
-toroka (Török Ádám)
-
-Ez egy nem hivatalos fordítás a Jolla-hoz. A fordítás a készüléken található bináris fordításfájlok visszafejtésével készült.
-
-A csomag telepítése után Settings -> Languages -> Magyar-t kiválasztva majd a készüléket újraindítva lép érvénybe a módosítás.
-
-Köszönetnyilvánítás:
-kenya888 (Takahiro Hashimotonak) a transifex projekt létrehozásáért és karbantartásáért:
-https://www.transifex.com/kenya888/unofficial-jolla-translations
-
-Illetve a konvertálószkriptek létrehozásáért és megosztásáért:
-http://codereview.qt-users.jp/#/admin/projects/unofficial-jolla-language-pack-ja
-
-A magyar fordítóknak:
-Leoka
-llg179 (LG László)
-rzalan13
-smatkovi (Sebastian Matkovich)
-toroka (Török Ádám)
-
+If you would like to create a package for a new language please let me know with an issue or a PR.
