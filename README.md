@@ -19,3 +19,16 @@ export LANGCODE=langcode; ./tools/createrpm.sh
 You can additionally install the package with the ./tools/install_on_device.sh. The script requires to have the jolla DNS name to be resolved to your device's address. 
 
 If you would like to create a package for a new language please let me know with an issue or a PR.
+
+For hungarian
+export POOTLE_LANG=hu; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
+export POOTLE_LANG=hu; export QM_SUFFIX=hu; ./tools/createqm.sh 
+export LANGCODE=hu; ./tools/createrpm.sh 
+
+export POOTLE_LANG=nl; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
+export POOTLE_LANG=nl; export QM_SUFFIX=nl; ./tools/createqm.sh 
+export LANGCODE=nl; ./tools/createrpm.sh 
+
+export POOTLE_LANG=zh_TW; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
+export POOTLE_LANG=zh_TW; export QM_SUFFIX=zh_TW; ./tools/createqm.sh 
+export LANGCODE=zh_TW; ./tools/createrpm.sh 

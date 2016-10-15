@@ -1,10 +1,11 @@
 #make sure change these variables to suit your language
 %define CONFLANG hu
 %define LOCNAME hu_HU
+%define RPM_SUFFIX hu
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
-Version:	1.0.0
-Release:	0.0.13
+Version:	2.0.5
+Release:	0.0.2
 Summary:	Nem hivatalos magyar nyelvi csomag
 
 Group: Qt/Qt
@@ -15,37 +16,12 @@ BuildArch: noarch
 BuildRoot: /var/tmp/%{name}-%{version}-XXXXXX
 Packager: Miklós Márton
 
-%define INSTALLDIR %{buildroot}/usr/share
-
-%description
-%{summary}
-
-%prep
-%setup -q -n %{name}
-
-%build
-
-%install
-rm -rf %{INSTALLDIR}
-mkdir -p %{INSTALLDIR}/{translations,jolla-supported-languages}
-echo $PWD
-cp -a usr/share/translations/*-%{CONFLANG}.qm %{INSTALLDIR}/translations/
-cp -a usr/share/jolla-supported-languages/%{CONFLANG}.conf %{INSTALLDIR}/jolla-supported-languages/
-
-%clean
-rm -rf ${buildroot}
-
-%files
-%{_datadir}/translations/*-%{CONFLANG}.qm
-%{_datadir}/jolla-supported-languages/%{CONFLANG}.conf
-
-%post
-localedef -i %{LOCNAME} -f UTF-8 %{LOCNAME}.utf8
-
-%postun
-localedef --delete-from-archive %{LOCNAME}.utf8
+%include rpm/common.inc
 
 %changelog
+* Sun Oct 2 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.2
+- Minor changes
+- Version numbering change to be aligned with the Jolla's version numbering
 * Sun Oct 2 2016 Miklos Marton <martonmiklosqdev@gmail.com> 1.0.0-0.0.13
 - Minor improvements.
 * Tue Sep 27 2016 Miklos Marton <martonmiklosqdev@gmail.com> 1.0.0-0.0.12

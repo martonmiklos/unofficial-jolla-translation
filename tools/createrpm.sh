@@ -17,6 +17,7 @@ then
 fi
 
 LANGCODE_LOWER=$(echo "$LANGCODE" | tr '[:upper:]' '[:lower:]')
+
 PKGNAME=unofficial-jolla-language-pack-${LANGCODE_LOWER}
 
 if [ x"${TOPDIR}" == x ]; then
@@ -48,7 +49,7 @@ if [ ! -e ${SOURCEFILE} ]; then
     cd rpmbuild
     tar jcvf ${TOPDIR}/SOURCES/${PKGNAME}.tar.bz2 ${PKGNAME}
 fi
-
+echo "rpmbuild --define "_topdir ${TOPDIR}" -ba rpm/unofficial-jolla-language-pack-${LANGCODE_LOWER}.spec --target noarch"
 rpmbuild --define "_topdir ${TOPDIR}" -ba rpm/unofficial-jolla-language-pack-${LANGCODE_LOWER}.spec --target noarch
 
 ls -l ${TOPDIR}/RPMS/noarch
