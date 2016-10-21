@@ -2,6 +2,7 @@
 %define CONFLANG zh_TW
 %define LOCNAME zh_TW
 %define RPM_SUFFIX zh_tw
+%define QM_SUFFIX zh_TW
 
 Name: unofficial-jolla-language-pack-%{RPM_SUFFIX}
 Version:	2.0.5

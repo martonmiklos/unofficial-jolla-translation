@@ -2,6 +2,7 @@
 %define CONFLANG hu
 %define LOCNAME hu_HU
 %define RPM_SUFFIX hu
+%define QM_SUFFIX hu
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
 Version:	2.0.5
@@ -19,6 +20,9 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Fri Oct 21 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.2
+- Minor changes
+- Fixed RPM preinstall script to properly register the language
 * Sun Oct 2 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.2
 - Minor changes
 - Version numbering change to be aligned with the Jolla's version numbering
