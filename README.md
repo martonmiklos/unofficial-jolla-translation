@@ -32,3 +32,7 @@ export LANGCODE=nl; ./tools/createrpm.sh
 export POOTLE_LANG=zh_TW; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
 export POOTLE_LANG=zh_TW; export QM_SUFFIX=zh_TW; ./tools/createqm.sh 
 export LANGCODE=zh_TW; ./tools/createrpm.sh 
+
+export POOTLE_LANG=el; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
+export POOTLE_LANG=el; export QM_SUFFIX=el; ./tools/createqm.sh 
+export LANGCODE=el; ./tools/createrpm.sh 

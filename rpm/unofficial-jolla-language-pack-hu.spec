@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
 Version:	2.0.5
-Release:	0.0.2
+Release:	0.0.4
 Summary:	Nem hivatalos magyar nyelvi csomag
 
 Group: Qt/Qt
@@ -20,7 +20,9 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
-* Fri Oct 21 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.2
+* Fri Nov 04 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.3
+- Minor changes
+* Fri Oct 21 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.3
 - Minor changes
 - Fixed RPM preinstall script to properly register the language
 * Sun Oct 2 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.2

@@ -50,7 +50,7 @@ if [ ! -e ${SOURCEFILE} ]; then
     tar jcvf ${TOPDIR}/SOURCES/${PKGNAME}.tar.bz2 ${PKGNAME}
 fi
 echo "rpmbuild --define "_topdir ${TOPDIR}" -ba rpm/unofficial-jolla-language-pack-${LANGCODE_LOWER}.spec --target noarch"
-rpmbuild --define "_topdir ${TOPDIR}" -ba rpm/unofficial-jolla-language-pack-${LANGCODE_LOWER}.spec --target noarch
+rpmbuild --define "_topdir ${TOPDIR}" -bb rpm/unofficial-jolla-language-pack-${LANGCODE_LOWER}.spec --target noarch
 
 ls -l ${TOPDIR}/RPMS/noarch
 ls -l ${TOPDIR}/SRPMS
