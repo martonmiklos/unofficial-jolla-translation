@@ -116,3 +116,7 @@ libjollasignonuiservice-qt5/libjollasignonuiservice_qt5.ts
 sailfish-components-bluetooth-qt5/sailfish_components_bluetooth_qt5.ts
 jolla-devicelock/devicelock.ts
 jolla-mediaplayer/jolla-mediaplayer.ts
+nemo-transferengine-qt5/nemo-transfer-engine.ts
+sailfish-components-webview-qt5/sailfish_components_webview_pickers_qt5.ts
+sailfish-components-webview-qt5/sailfish_components_webview_popups_qt5.ts
+sailfish-components-webview-qt5/sailfish_components_webview_qt5.ts
