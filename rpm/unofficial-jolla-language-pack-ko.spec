@@ -5,7 +5,7 @@
 %define QM_SUFFIX ko
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
-Version:	2.0.5
+Version:	2.1.0
 Release:	0.0.1
 Summary:	Korean community language pack
 
@@ -20,6 +20,9 @@ Packager: Shinjo Park
 %include rpm/common.inc
 
 %changelog
+* Fri Dec 09 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.1
+- First build for openrepos
+
 * Thu Dec 08 2016 Shinjo Park <me@peremen.name> 2.0.5-0.0.1
 - Migrate to use Sailfish OS Pootle
 

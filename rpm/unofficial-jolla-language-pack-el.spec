@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
 Version:	2.1.0
-Release:	0.0.1
+Release:	0.0.2
 Summary:	Unofficial Greek language pack for Jolla Sailfish OS
 
 Group: Qt/Qt
@@ -20,5 +20,7 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Mon Dec 05 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.2
+- Updated from pootle
 * Mon Nov 21 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.1
 - First release

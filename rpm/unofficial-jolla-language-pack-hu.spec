@@ -5,8 +5,8 @@
 %define QM_SUFFIX hu
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
-Version:	2.0.5
-Release:	0.0.4
+Version:	2.1.0
+Release:	0.0.1
 Summary:	Nem hivatalos magyar nyelvi csomag
 
 Group: Qt/Qt
@@ -20,7 +20,9 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
-* Fri Nov 04 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.3
+* Wed Jan 04 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.1
+- First release after finishing translation of the 2.1.0 round
+* Fri Nov 04 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.4
 - Minor changes
 * Fri Oct 21 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.3
 - Minor changes
