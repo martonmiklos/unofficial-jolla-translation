@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
 Version:	2.1.0
-Release:	0.0.1
+Release:	0.0.2
 Summary:	Korean community language pack
 
 Group: Qt/Qt
@@ -20,6 +20,9 @@ Packager: Shinjo Park
 %include rpm/common.inc
 
 %changelog
+* Wed Feb 08 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.2
+- Updated from pootle to make translation up to date with the just released 2.1.0
+
 * Fri Dec 09 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.1
 - First build for openrepos
 

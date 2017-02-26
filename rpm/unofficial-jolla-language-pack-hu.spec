@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
 Version:	2.1.0
-Release:	0.0.1
+Release:	0.0.2
 Summary:	Nem hivatalos magyar nyelvi csomag
 
 Group: Qt/Qt
@@ -20,6 +20,8 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Wed Feb 08 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.2
+- Updated from pootle to make translation up to date with the just released 2.1.0
 * Wed Jan 04 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.1
 - First release after finishing translation of the 2.1.0 round
 * Fri Nov 04 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.4

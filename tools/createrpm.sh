@@ -7,7 +7,7 @@
 #
 ##############################################
 
-
+SAVEDIR=$HOME/release_rpms
 if [ -z $LANGCODE ] 
 then
     echo "The LANGCODE variable is not set!"
@@ -52,5 +52,5 @@ fi
 echo "rpmbuild --define "_topdir ${TOPDIR}" -ba rpm/unofficial-jolla-language-pack-${LANGCODE_LOWER}.spec --target noarch"
 rpmbuild --define "_topdir ${TOPDIR}" -bb rpm/unofficial-jolla-language-pack-${LANGCODE_LOWER}.spec --target noarch
 
-ls -l ${TOPDIR}/RPMS/noarch
-ls -l ${TOPDIR}/SRPMS
+
+cp ${TOPDIR}/RPMS/noarch/*.rpm $SAVEDIR

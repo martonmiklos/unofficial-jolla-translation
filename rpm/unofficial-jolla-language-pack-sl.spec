@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
 Version:	2.1.0
-Release:	0.0.3
+Release:	0.0.4
 Summary:	Unofficial Slovenian language pack for Jolla Sailfish OS
 
 Group: Qt/Qt
@@ -20,6 +20,8 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Wed Feb 08 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.4
+- Updated from pootle to make translation up to date with the just released 2.1.0
 * Thu Dec 22 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.3
 - Repackaged after fixing some typos
 * Mon Nov 28 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.2
