@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{RPM_SUFFIX}
 Version:	2.0.5
-Release:	0.0.1
+Release:	0.0.3
 Summary:	Unofficial community Taiwanese translation for Jolla
 
 Group: Qt/Qt
@@ -20,5 +20,9 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Wed Mar 01 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.3
+- Changed language name to make it consistent
+* Thu Feb 28 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.2
+- First RPM build after completing the whole translation
 * Sun Oct 2 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.1
 - First RPM build

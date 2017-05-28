@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
 Version:	2.1.0
-Release:	0.0.1
+Release:	0.0.2
 Summary:	Community Nederlands language pack for the Sailfish OS
 
 Group: Qt/Qt
@@ -20,9 +20,10 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Thu Feb 28 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.2
+- Updated from pootle to make translation up to date
 * Wed Feb 08 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.1
 - Updated from pootle to make translation up to date with the just released 2.1.0
-
 * Fri Oct 21 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.3
 - Fixed RPM preinstall script to properly register the language
 * Sun Oct 2 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.0.5-0.0.2

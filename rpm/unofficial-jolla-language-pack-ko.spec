@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
 Version:	2.1.0
-Release:	0.0.2
+Release:	0.0.3
 Summary:	Korean community language pack
 
 Group: Qt/Qt
