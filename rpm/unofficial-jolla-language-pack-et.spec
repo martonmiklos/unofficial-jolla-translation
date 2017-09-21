@@ -1,6 +1,6 @@
 #make sure change these variables to suit your language
 %define CONFLANG et
-%define LOCNAME et_ET
+%define LOCNAME et_EE
 %define RPM_SUFFIX et
 %define QM_SUFFIX et
 

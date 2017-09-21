@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{RPM_SUFFIX}
 Version:	2.1.0
-Release:	0.0.1
+Release:	0.0.4
 Summary:	Unofficial community Portuguese (Brazil) translation for Jolla
 
 Group: Qt/Qt
@@ -20,5 +20,11 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Thu Aug 17 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.4
+- Updated from pootle
+* Sat Jul 1 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.3
+- Updated from pootle
+* Wed Jun 14 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.2
+- First RPM build from the fully completed Pootle project
 * Wed Mar 01 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.1
 - First RPM build from partially completed Pootle project

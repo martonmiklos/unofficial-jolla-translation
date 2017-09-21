@@ -25,6 +25,7 @@ then
     exit -1
 fi
 
+mkdir -p usr/share/translations
 rm -rf usr/share/translations/*
 i=0
 TS_COUNT=$(wc -l < $PACKAGELISTFILE)

@@ -52,3 +52,11 @@ export LANGCODE=ko; ./tools/createrpm.sh
 export POOTLE_LANG=ca; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
 export POOTLE_LANG=ca; export QM_SUFFIX=ca; ./tools/createqm.sh 
 export LANGCODE=ca; ./tools/createrpm.sh 
+
+export POOTLE_LANG=pt_BR; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
+export POOTLE_LANG=pt_BR; export QM_SUFFIX=pt_BR; ./tools/createqm.sh 
+export LANGCODE=pt_BR; ./tools/createrpm.sh 
+
+export POOTLE_LANG=et; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
+export POOTLE_LANG=et; export QM_SUFFIX=et; ./tools/createqm.sh 
+export LANGCODE=et; ./tools/createrpm.sh 
