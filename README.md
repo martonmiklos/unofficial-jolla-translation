@@ -8,7 +8,7 @@ Building an RPM requires the following things:
 - RPM spec file in the rpm folder with: unofficial-jolla-language-pack-langcode.spec filename
 - Language file with the langcode.conf filename in the usr/share/jolla-supported-languages/ folder
 - lrelease in the path (could be installed by installing the Qt Linguist or other Qt dev tools) for creating the qm files.
-- wget, awk, bash, other standard Linux utilities
+- wget, awk, bash, rpm, other standard Linux utilities
 
 RPM build process:
 // all commands executed from the checked out folder

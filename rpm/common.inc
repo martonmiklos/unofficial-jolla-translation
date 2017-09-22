@@ -10,7 +10,8 @@
 
 %install
 rm -rf %{INSTALLDIR}
-mkdir -p %{INSTALLDIR}/{translations,jolla-supported-languages}
+mkdir -p %{INSTALLDIR}/translations
+mkdir -p %{INSTALLDIR}/jolla-supported-languages
 cp -a usr/share/translations/*-%{QM_SUFFIX}.qm %{INSTALLDIR}/translations/
 cp -a usr/share/jolla-supported-languages/%{RPM_SUFFIX}.conf %{INSTALLDIR}/jolla-supported-languages/
 
