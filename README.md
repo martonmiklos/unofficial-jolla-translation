@@ -60,3 +60,7 @@ export LANGCODE=pt_BR; ./tools/createrpm.sh
 export POOTLE_LANG=et; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
 export POOTLE_LANG=et; export QM_SUFFIX=et; ./tools/createqm.sh 
 export LANGCODE=et; ./tools/createrpm.sh 
+
+export POOTLE_LANG=tr; ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
+export POOTLE_LANG=tr; export QM_SUFFIX=tr; ./tools/createqm.sh 
+export LANGCODE=tr; ./tools/createrpm.sh
