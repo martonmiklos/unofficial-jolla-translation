@@ -5,8 +5,8 @@
 %define QM_SUFFIX pt_BR
 
 Name: unofficial-jolla-language-pack-%{RPM_SUFFIX}
-Version:	2.1.0
-Release:	0.0.4
+Version:	2.1.2
+Release:	0.0.1
 Summary:	Unofficial community Portuguese (Brazil) translation for Jolla
 
 Group: Qt/Qt
@@ -20,6 +20,9 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Mon Oct 02 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.4
+- Updated from pootle
+- RPM installation script fixed: generates the locale properly
 * Thu Aug 17 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.4
 - Updated from pootle
 * Sat Jul 1 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.3

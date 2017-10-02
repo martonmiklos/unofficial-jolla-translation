@@ -5,7 +5,7 @@
 %define QM_SUFFIX nl
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
-Version:	2.1.0
+Version:	2.1.2
 Release:	0.0.2
 Summary:	Community Nederlands language pack for the Sailfish OS
 
@@ -20,6 +20,12 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Mon Oct 02 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.2-0.0.2
+- Moved localedef from post to preinstall section and swallow the returncode.
+This should fix the locale related issues.
+* Sun Oct 01 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.2-0.0.1
+- Updated from pootle to make translation up to date
+- RPM installation script fixed: generates the locale properly
 * Thu Feb 28 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.2
 - Updated from pootle to make translation up to date
 * Wed Feb 08 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.1

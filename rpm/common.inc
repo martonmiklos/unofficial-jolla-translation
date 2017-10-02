@@ -21,8 +21,8 @@ rm -rf ${buildroot}
 %{_datadir}/translations/*-%{QM_SUFFIX}.qm
 %{_datadir}/jolla-supported-languages/%{RPM_SUFFIX}.conf
 
-%post
-localedef --replace -i %{LOCNAME} -f UTF-8 %{LOCNAME}.utf8 --prefix=/
-
+%pre
+/usr/bin/localedef --force --replace --verbose -i %{LOCNAME} -f UTF-8 %{LOCNAME}.utf8
+exit 0
 %postun
-localedef --delete-from-archive %{LOCNAME}.utf8
+/usr/bin/localedef --delete-from-archive %{LOCNAME}.utf8

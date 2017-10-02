@@ -5,7 +5,7 @@
 %define QM_SUFFIX hu
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
-Version:	2.1.1
+Version:	2.1.2
 Release:	0.0.1
 Summary:	Nem hivatalos magyar nyelvi csomag
 
@@ -20,6 +20,9 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Mon Oct 02 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.2-0.0.2
+- Update from Pootle
+- RPM installation script fixed: generates the locale properly
 * Fri Aug 22 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.1-0.0.1
 - Update from Pootle after accepting Zgp's fixes
 * Fri Jun 16 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.3
