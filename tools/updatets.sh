@@ -1,3 +1,5 @@
+#!/bin/bash
+
 TSLANG=hu_HU
 
 LCONVERT=/home/mm/Projektek/jolla/qttools-opensource-src-5.3.2/bin/lconvert
