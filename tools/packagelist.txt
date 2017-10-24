@@ -40,7 +40,6 @@ ambience-the-first-one/ambience-the-first-one.ts
 contactsd/contactsd.ts
 jolla-email/jolla-email.ts
 jolla-alarm-ui/alarm-ui.ts
-jolla-mediaplayer-youtube/jolla-mediaplayer-youtube.ts
 jolla-calendar/calendar.ts
 sailfish-maps/sailfish-maps.ts
 eventsview-extensions/eventsview-extensions-social.ts
@@ -90,7 +89,6 @@ sailfish-content-ambiences-default/ambience-harmony.ts
 jolla-settings-bluetooth/settings-bluetooth.ts
 jolla-gallery-extensions/gallery-extensions.ts
 sailfish-tutorial/tutorial.ts
-csd/csd.ts
 jolla-clock/clock.ts
 ambience-snow-white/ambience-snow-white.ts
 jolla-settings-networking/settings-network.ts
@@ -105,13 +103,11 @@ sailfish-components-filemanager/sailfish_components_filemanager.ts
 jolla-startupwizard/startupwizard.ts
 sailfish-utilities/settings-sailfish_utilities.ts
 jolla-messages/messages.ts
-jolla-launcher-settings/launcher_settings.ts
 jolla-gallery/gallery.ts
 sailfishsilica-qt5/sailfishsilica-qt5.ts
 jolla-settings/settings.ts
 sailfish-components-telephony-qt5/sailfish_components_telephony.ts
 sailfish-office/sailfish-office.ts
-sailfish-components-media-qt5/sailfish_components_media.ts
 libjollasignonuiservice-qt5/libjollasignonuiservice_qt5.ts
 sailfish-components-bluetooth-qt5/sailfish_components_bluetooth_qt5.ts
 jolla-devicelock/devicelock.ts
