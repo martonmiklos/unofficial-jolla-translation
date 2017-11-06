@@ -5,7 +5,7 @@
 %define QM_SUFFIX tr
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
-Version:    2.1.0
+Version:    2.1.3
 Release:    0.0.1
 Summary:    Resmi Olmayan Türkçe Dil Paketi
 
@@ -20,5 +20,7 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Mon Nov 06 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.3-0.0.1
+- First release to openrepos
 * Wed Feb 08 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.1
 - First release
