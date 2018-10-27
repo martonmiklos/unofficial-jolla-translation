@@ -7,7 +7,17 @@
 #
 ##############################################
 
-SAVEDIR=$HOME/release_rpms
+SAVEDIR=$PWD/release_rpms
+if [ ! -e "$SAVEDIR" ]
+then
+    echo creating "$SAVEDIR"...
+    mkdir "$SAVEDIR"
+elif [ ! -d "$SAVEDIR" ]
+then
+    echo "$SAVEDIR is not a dir"
+    exit -1
+fi
+
 if [ -z $LANGCODE ] 
 then
     echo "The LANGCODE variable is not set!"

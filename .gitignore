@@ -1,0 +1,14 @@
+# rpm backups
+rpm/*.spec.20*
+
+# vim tmp files
+.*.sw?
+
+log.txt
+diffs/
+translations.old/
+translations.old.bak/
+
+rpmbuild/
+release_rpms/
+
