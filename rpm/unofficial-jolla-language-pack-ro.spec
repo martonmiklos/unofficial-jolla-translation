@@ -5,7 +5,7 @@
 %define QM_SUFFIX ro
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
-Version:	2.1.2
+Version:	3.0.3
 Release:	0.0.1
 Summary:	Unofficial Romanian community translation for Sailfish OS
 
