@@ -12,3 +12,9 @@ translations.old.bak/
 rpmbuild/
 release_rpms/
 
+usr/
+translations/
+templates/
+qmfiles/
+
+.directory

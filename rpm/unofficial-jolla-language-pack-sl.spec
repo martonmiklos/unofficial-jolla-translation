@@ -11,7 +11,7 @@ Summary:	Unofficial Slovenian language pack for Jolla Sailfish OS
 
 Group: Qt/Qt
 License: GPL
-URL: https://translate.sailfishos.org/hu
+URL: https://translate.sailfishos.org/sl
 Source0: %{name}.tar.bz2
 BuildArch: noarch
 BuildRoot: /var/tmp/%{name}-%{version}-XXXXXX

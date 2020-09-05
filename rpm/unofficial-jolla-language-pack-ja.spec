@@ -5,8 +5,8 @@
 %define QM_SUFFIX ja
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
-Version:	2.1.0
-Release:	0.0.2
+Version:	3.4.0
+Release:	0.0.1
 Summary:	Unofficial Japanese language pack for Jolla Sailfish OS
 
 Group: Qt/Qt
@@ -20,6 +20,8 @@ Packager: Miklós Márton
 %include rpm/common.inc
 
 %changelog
+* Mon Aug 17 2020 Miklos Marton <martonmiklosqdev@gmail.com> 3.4.0-0.0.1
+- Generate updated RPM as per ttpr's request
 * Wed Feb 08 2017 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.2
 - Updated from pootle to make translation up to date with the just released 2.1.0
 * Thu Nov 24 2016 Miklos Marton <martonmiklosqdev@gmail.com> 2.1.0-0.0.1
