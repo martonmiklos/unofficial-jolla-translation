@@ -12,16 +12,20 @@ Building an RPM requires the following things:
 
 RPM build process:
 // all commands executed from the checked out folder
+
+```
 export POOTLE_LANG=langcode QM_SUFFIX=langcode LANGCODE=langcode
 ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
 ./tools/createqm.sh
 ./tools/createrpm.sh
+```
 
 You can additionally install the package with the ./tools/install_on_device.sh. The script requires to have the jolla DNS name to be resolved to your device's address. 
 
 If you would like to create a package for a new language please let me know with an issue or a PR.
 
-For hungarian
+Quick copy commands:
+```
 export POOTLE_LANG=hu QM_SUFFIX=hu LANGCODE=hu
 ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
 ./tools/createqm.sh
@@ -96,3 +100,4 @@ export POOTLE_LANG=sk QM_SUFFIX=sk LANGCODE=sk
 ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
 ./tools/createqm.sh
 ./tools/createrpm.sh
+```
