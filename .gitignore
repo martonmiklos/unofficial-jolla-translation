@@ -12,7 +12,7 @@ translations.old.bak/
 rpmbuild/
 release_rpms/
 
-usr/
+usr/share/translations/
 translations/
 templates/
 qmfiles/
