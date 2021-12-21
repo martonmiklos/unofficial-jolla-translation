@@ -13,7 +13,6 @@ ambience-snow-white/ambience-snow-white.ts
 ambience-stella/ambience-stella.ts
 ambience-the-first-one/ambience-the-first-one.ts
 apkd8/apkd.ts
-apkd/apkd.ts
 as-daemon/as-daemon.ts
 buteo-sync-plugins-social/lipstick-jolla-home-twitter-notif.ts
 commhistory-daemon/commhistoryd.ts
