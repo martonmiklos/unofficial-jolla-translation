@@ -5,7 +5,7 @@
 %define QM_SUFFIX uk
 
 Name: unofficial-jolla-language-pack-%{CONFLANG}
-Version:	0.1.0
+Version:	4.4.0.68
 Release:	0.0.1
 Summary:	Unofficial Ukrainian language pack for Jolla Sailfish OS
 
