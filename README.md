@@ -100,4 +100,9 @@ export POOTLE_LANG=sk QM_SUFFIX=sk LANGCODE=sk
 ./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
 ./tools/createqm.sh
 ./tools/createrpm.sh
+
+export POOTLE_LANG=uk QM_SUFFIX=uk LANGCODE=uk
+./tools/fetchts.sh # this will take a while because it downloads the ts files from Pootle
+./tools/createqm.sh
+./tools/createrpm.sh
 ```
